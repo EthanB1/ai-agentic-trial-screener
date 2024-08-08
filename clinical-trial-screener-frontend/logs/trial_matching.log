@@ -1,0 +1,728 @@
+2024-08-04 11:45:40,818 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:40,818 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:41,752 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 11:45:41,753 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:42,729 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:42,729 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:43,587 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 11:45:43,588 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:43,622 - trial_matching - INFO - Received request to get matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:43,622 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:44,541 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 11:45:44,541 - trial_matching - INFO - Retrieved 0 matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:44,561 - trial_matching - INFO - Received request to get matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:44,564 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:45,431 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 11:45:45,432 - trial_matching - INFO - Retrieved 0 matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:46,955 - trial_matching - INFO - Received matching request for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:46,955 - trial_matching - INFO - Started matching process for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:45:46,956 - trial_matching - INFO - Starting matching process for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:48:59,881 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:48:59,881 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:01,059 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:01,060 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:01,942 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:01,943 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:03,224 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:03,224 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:04,133 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:04,134 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:05,435 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:05,435 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:05,479 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:05,480 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:07,497 - trial_matching - INFO - Retrieved 14 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:07,498 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:07,513 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:07,513 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:09,356 - trial_matching - INFO - Retrieved 14 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:09,357 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:09,384 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:09,384 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:49:09,385 - trial_matching - INFO - Starting matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:55:39,451 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:39,453 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:40,334 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 11:55:40,335 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:40,353 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:40,354 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:41,278 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 11:55:41,278 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:46,100 - trial_matching - INFO - Received request to get matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:46,101 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:47,072 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 11:55:47,073 - trial_matching - INFO - Retrieved 0 matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:47,104 - trial_matching - INFO - Received request to get matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:47,104 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:47,923 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 11:55:47,924 - trial_matching - INFO - Retrieved 0 matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:50,483 - trial_matching - INFO - Received matching request for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:55:50,484 - trial_matching - INFO - Started matching process for user: 66af0d2d118d8e248b49a856
+2024-08-04 11:56:52,701 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:52,701 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:54,076 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:54,076 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:55,019 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:55,020 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:56,219 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:56,219 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:57,386 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:57,389 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:59,285 - trial_matching - INFO - Retrieved 14 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:59,285 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:59,302 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:56:59,304 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:57:01,202 - trial_matching - INFO - Retrieved 14 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:57:01,202 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:57:01,225 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 11:57:01,226 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:20,948 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:20,949 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:22,139 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:22,140 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:23,013 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:23,014 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:24,216 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:24,217 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:24,312 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:24,314 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:26,365 - trial_matching - INFO - Retrieved 14 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:26,366 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:26,388 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:26,389 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:28,408 - trial_matching - INFO - Retrieved 14 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:28,408 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:29,417 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:03:29,418 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:04:11,248 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:11,248 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:12,146 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:04:12,147 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:13,039 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:13,039 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:13,876 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:04:13,876 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:16,368 - trial_matching - INFO - Received request to get matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:16,368 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:17,243 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:04:17,244 - trial_matching - INFO - Retrieved 0 matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:17,252 - trial_matching - INFO - Received request to get matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:17,256 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:18,122 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:04:18,122 - trial_matching - INFO - Retrieved 0 matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:19,956 - trial_matching - INFO - Received matching request for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:04:19,957 - trial_matching - INFO - Started matching process for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:19:50,448 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:19:50,449 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:19:51,332 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:19:51,332 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:19:52,270 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:19:52,271 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:19:53,110 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:19:53,111 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:21:01,266 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:01,268 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:02,475 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:02,475 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:03,479 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:03,481 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:04,819 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:04,820 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:11,423 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:21:11,424 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:31:53,175 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:53,177 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:54,149 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:31:54,150 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:55,074 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:55,074 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:56,024 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:31:56,025 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:56,076 - trial_matching - INFO - Received request to get matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:56,077 - trial_matching - INFO - Retrieving all matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:56,939 - trial_matching - INFO - No matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:31:56,940 - trial_matching - INFO - Retrieved 0 matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:56,963 - trial_matching - INFO - Received request to get matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:56,964 - trial_matching - INFO - Retrieving all matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:57,928 - trial_matching - INFO - No matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:31:57,929 - trial_matching - INFO - Retrieved 0 matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:59,437 - trial_matching - INFO - Received matching request for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:31:59,439 - trial_matching - INFO - Started matching process for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:35:04,134 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:04,134 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:05,522 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:05,522 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:06,524 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:06,525 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:07,827 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:07,828 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:07,867 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:07,868 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:08,780 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:08,781 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:08,799 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:08,800 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:09,718 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:09,718 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:14,095 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:14,096 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:15,107 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:15,108 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:17,303 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:35:17,304 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:43:14,192 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:43:14,193 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:43:15,041 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:43:15,041 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:43:15,948 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:43:15,950 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:43:16,822 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 12:43:16,822 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 12:44:10,230 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:10,231 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:11,567 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:11,568 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:12,547 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:12,547 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:14,039 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:14,041 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:50,358 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:50,359 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:51,594 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:51,595 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:52,539 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:52,540 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:53,901 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-04 12:44:53,901 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-04 13:03:09,548 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 13:03:09,549 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 13:03:10,379 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 13:03:10,380 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 13:03:11,288 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 13:03:11,288 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-04 13:03:12,139 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-04 13:03:12,139 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:30,057 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:30,059 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:30,702 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-05 21:13:30,702 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:31,380 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:31,380 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:32,005 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-05 21:13:32,005 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:39,312 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:39,312 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:39,983 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-05 21:13:39,984 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:40,620 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:40,620 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:13:41,305 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-05 21:13:41,305 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-05 21:17:22,289 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-05 21:17:22,290 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-05 21:17:23,198 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-05 21:17:23,198 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-05 21:17:23,784 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-05 21:17:23,786 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-05 21:17:24,667 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-05 21:17:24,668 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:38:22,317 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:38:22,320 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:38:23,131 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 00:38:23,131 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:38:24,269 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:38:24,269 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:38:25,053 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 00:38:25,054 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:45:42,339 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:45:42,339 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:45:42,994 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 00:45:42,994 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:45:43,646 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:45:43,646 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:45:44,302 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 00:45:44,302 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 00:46:15,664 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:15,665 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:16,578 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:16,578 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:17,154 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:17,154 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:18,029 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:18,030 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:24,439 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:24,440 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:25,291 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:25,291 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:25,923 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:25,924 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:26,895 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 00:46:26,896 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 01:01:39,806 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:01:39,807 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:01:40,424 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 01:01:40,424 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:01:41,099 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:01:41,099 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:01:41,690 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 01:01:41,690 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:03:29,510 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:03:29,511 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:03:30,582 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 01:03:30,582 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:03:31,267 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:03:31,267 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 01:03:31,872 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 01:03:31,873 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:02:28,565 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:02:28,567 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:02:29,635 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 03:02:29,636 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:02:29,650 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:02:29,651 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:02:30,249 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 03:02:30,250 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:11:17,783 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:11:17,783 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:11:18,414 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 03:11:18,415 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:11:19,015 - trial_matching - INFO - Received request for recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:11:19,016 - trial_matching - INFO - Retrieving recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:11:19,753 - trial_matching - INFO - No recent matches found for user 66af0d2d118d8e248b49a856
+2024-08-06 03:11:19,754 - trial_matching - INFO - Retrieved 0 recent matches for user: 66af0d2d118d8e248b49a856
+2024-08-06 03:20:00,766 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:20:00,772 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:20:01,547 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:20:01,549 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:20:02,244 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:20:02,245 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:20:03,151 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:20:03,151 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:25:43,813 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:25:43,813 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:25:44,401 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:25:44,402 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:01,112 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:01,113 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:01,721 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:01,721 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:03,411 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:03,414 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:47,312 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:47,313 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:48,222 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:48,223 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:48,876 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:48,877 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:49,696 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:26:49,697 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:00,292 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:00,299 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:01,322 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:01,323 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:01,340 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:01,341 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:01,987 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:01,988 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:02,293 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:02,294 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:43,846 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:43,847 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:44,536 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:44,537 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:44,552 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:44,552 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:45,142 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:45,143 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:48,042 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:27:48,043 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:37,463 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:37,463 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:37,981 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:37,983 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:37,991 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:37,991 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:38,607 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:38,607 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:39,037 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:39,038 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:39,038 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 03:37:39,038 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:28,136 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:28,136 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:28,986 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:28,986 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:29,642 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:29,642 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:30,477 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:30,479 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:31,618 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:31,618 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:32,162 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:32,163 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:32,174 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:32,175 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:32,742 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:32,743 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:33,579 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:33,579 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:33,580 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:33,587 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:23:33,665 - trial_matching - INFO - Matching task completed for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:25,465 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:25,466 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:26,265 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:26,265 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:26,898 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:26,899 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:27,682 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:27,683 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:42,974 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:42,975 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:43,555 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:43,555 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:43,577 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:43,577 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:44,251 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:44,252 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:45,568 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:45,569 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:45,570 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:45,583 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:45,639 - trial_matching - INFO - Matching task completed for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:58,360 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:58,361 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:58,934 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:37:58,934 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:38:02,709 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:38:02,709 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:38:02,710 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:38:02,725 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:38:02,859 - trial_matching - INFO - Matching task completed for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:20,614 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:20,614 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:21,456 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:21,456 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:22,055 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:22,056 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:22,892 - trial_matching - INFO - Retrieved 5 recent matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:22,892 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:23,959 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:23,960 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:24,544 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:24,545 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:24,564 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:24,564 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:26,014 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:26,014 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:26,034 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:26,034 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:26,035 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:26,045 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:26,093 - trial_matching - INFO - Matching task completed for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:30,819 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:30,819 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:31,403 - trial_matching - INFO - Retrieved 14 matches for patient 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:39:31,404 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:42:11,922 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:42:11,923 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:42:11,924 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:42:11,937 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 12:42:12,006 - trial_matching - INFO - Matching task completed for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:00:03,981 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:00:03,982 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:00:03,983 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:00:03,996 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:00:04,092 - trial_matching - INFO - Matching task completed for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:54,613 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:54,614 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:55,541 - trial_matching - INFO - Retrieved 5 recent matches for user 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:55,541 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:55,862 - trial_matching - INFO - Received request for recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:55,863 - trial_matching - INFO - Retrieving recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:56,889 - trial_matching - INFO - Retrieved 5 recent matches for user 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:56,890 - trial_matching - INFO - Retrieved 5 recent matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:58,437 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:58,437 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:59,599 - trial_matching - INFO - Retrieved 14 matches for user 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:59,599 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:59,606 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:27:59,606 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:28:00,841 - trial_matching - INFO - Retrieved 14 matches for user 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:28:00,841 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:28:08,684 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:28:08,686 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:28:08,686 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:28:08,692 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:28:08,764 - trial_matching - INFO - Matching task completed for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:28:08,945 - trial_matching - INFO - Received request for matching status for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:29:59,561 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:29:59,562 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:00,940 - trial_matching - INFO - Retrieved 14 matches for user 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:00,940 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:00,966 - trial_matching - INFO - Received request to get matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:00,967 - trial_matching - INFO - Retrieving all matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:02,217 - trial_matching - INFO - Retrieved 14 matches for user 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:02,218 - trial_matching - INFO - Retrieved 14 matches for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:03,311 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:03,312 - trial_matching - INFO - Started matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:03,313 - trial_matching - INFO - Performing matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:03,327 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:05,388 - trial_matching - INFO - Matching task completed for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:30:05,413 - trial_matching - INFO - Received request for matching status for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:32:45,110 - trial_matching - INFO - Received request to stop matching for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:32:45,110 - trial_matching - INFO - Stopping matching process for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:47:01,674 - trial_matching - INFO - Received matching request for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:47:01,674 - trial_matching - INFO - Starting match_patient_to_trials for user: 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:47:13,296 - trial_matching - INFO - Calling Anthropic API for user 66aad4b4c5463e9d7e8724d8
+2024-08-06 13:51:00,462 - trial_matching - ERROR - Error in match_patient_to_trials for user 66aad4b4c5463e9d7e8724d8: Unexpected error in match_patient_to_trials: RetryError[<Future at 0x212af256800 state=finished raised RuntimeError>]
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1558, in _request
+    response = await self._client.send(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_client.py", line 1661, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_client.py", line 1689, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_client.py", line 1726, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_client.py", line 1763, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_transports\default.py", line 373, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection_pool.py", line 216, in handle_async_request
+    raise exc from None
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection_pool.py", line 196, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection.py", line 99, in handle_async_request
+    raise exc
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection.py", line 76, in handle_async_request
+    stream = await self._connect(request)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection.py", line 122, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_backends\auto.py", line 30, in connect_tcp
+    return await self._backend.connect_tcp(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_backends\anyio.py", line 116, in connect_tcp
+    stream: anyio.abc.ByteStream = await anyio.connect_tcp(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anyio\_core\_sockets.py", line 190, in connect_tcp
+    gai_res = await getaddrinfo(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anyio\_core\_sockets.py", line 568, in getaddrinfo
+    gai_res = await get_async_backend().getaddrinfo(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anyio\_backends\_asyncio.py", line 2403, in getaddrinfo
+    return await get_running_loop().getaddrinfo(
+  File "C:\Users\ethan\anaconda3\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\ethan\anaconda3\lib\asyncio\base_events.py", line 821, in run_in_executor
+    executor.submit(func, *args), loop=self)
+  File "C:\Users\ethan\anaconda3\lib\concurrent\futures\thread.py", line 169, in submit
+    raise RuntimeError('cannot schedule new futures after '
+RuntimeError: cannot schedule new futures after interpreter shutdown
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 40, in invoke_model
+    response = await asyncio.wait_for(
+  File "C:\Users\ethan\anaconda3\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\resources\messages.py", line 1766, in create
+    return await self._post(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1826, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1519, in request
+    return await self._request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1582, in _request
+    return await self._retry_request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1651, in _retry_request
+    return await self._request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1582, in _request
+    return await self._retry_request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1651, in _retry_request
+    return await self._request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1592, in _request
+    raise APIConnectionError(request=request) from err
+anthropic.APIConnectionError: Connection error.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 36, in invoke_model
+    with self.app.app_context():
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\flask\ctx.py", line 284, in __exit__
+    self.pop(exc_value)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\flask\ctx.py", line 262, in pop
+    self.app.do_teardown_appcontext(exc)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\flask\app.py", line 1344, in do_teardown_appcontext
+    self.ensure_sync(func)(exc)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\asgiref\sync.py", line 187, in __call__
+    raise RuntimeError(
+RuntimeError: You cannot use AsyncToSync in the same thread as an async event loop - just await the async function directly.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\asyncio\__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 55, in invoke_model
+    raise RuntimeError(f"Failed to invoke Anthropic model: {str(e)}") from e
+RuntimeError: Failed to invoke Anthropic model: You cannot use AsyncToSync in the same thread as an async event loop - just await the async function directly.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 101, in match_patient_to_trials
+    response = await self.invoke_model(messages)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\asyncio\__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\asyncio\__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\asyncio\__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\__init__.py", line 419, in exc_check
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x212af256800 state=finished raised RuntimeError>]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\trial_matching_service.py", line 41, in match_patient_to_trials
+    logger.info(f"Patient profile found: {patient.__dict__}")
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 108, in match_patient_to_trials
+    raise RuntimeError(f"Unexpected error in match_patient_to_trials: {str(e)}") from e
+RuntimeError: Unexpected error in match_patient_to_trials: RetryError[<Future at 0x212af256800 state=finished raised RuntimeError>]
+2024-08-06 13:51:00,488 - trial_matching - ERROR - Error in matching process for user 66aad4b4c5463e9d7e8724d8: cannot schedule new futures after shutdown
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1558, in _request
+    response = await self._client.send(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_client.py", line 1661, in send
+    response = await self._send_handling_auth(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_client.py", line 1689, in _send_handling_auth
+    response = await self._send_handling_redirects(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_client.py", line 1726, in _send_handling_redirects
+    response = await self._send_single_request(request)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_client.py", line 1763, in _send_single_request
+    response = await transport.handle_async_request(request)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpx\_transports\default.py", line 373, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection_pool.py", line 216, in handle_async_request
+    raise exc from None
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection_pool.py", line 196, in handle_async_request
+    response = await connection.handle_async_request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection.py", line 99, in handle_async_request
+    raise exc
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection.py", line 76, in handle_async_request
+    stream = await self._connect(request)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_async\connection.py", line 122, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_backends\auto.py", line 30, in connect_tcp
+    return await self._backend.connect_tcp(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\httpcore\_backends\anyio.py", line 116, in connect_tcp
+    stream: anyio.abc.ByteStream = await anyio.connect_tcp(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anyio\_core\_sockets.py", line 190, in connect_tcp
+    gai_res = await getaddrinfo(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anyio\_core\_sockets.py", line 568, in getaddrinfo
+    gai_res = await get_async_backend().getaddrinfo(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anyio\_backends\_asyncio.py", line 2403, in getaddrinfo
+    return await get_running_loop().getaddrinfo(
+  File "C:\Users\ethan\anaconda3\lib\asyncio\base_events.py", line 863, in getaddrinfo
+    return await self.run_in_executor(
+  File "C:\Users\ethan\anaconda3\lib\asyncio\base_events.py", line 821, in run_in_executor
+    executor.submit(func, *args), loop=self)
+  File "C:\Users\ethan\anaconda3\lib\concurrent\futures\thread.py", line 169, in submit
+    raise RuntimeError('cannot schedule new futures after '
+RuntimeError: cannot schedule new futures after interpreter shutdown
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 40, in invoke_model
+    response = await asyncio.wait_for(
+  File "C:\Users\ethan\anaconda3\lib\asyncio\tasks.py", line 445, in wait_for
+    return fut.result()
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\resources\messages.py", line 1766, in create
+    return await self._post(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1826, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1519, in request
+    return await self._request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1582, in _request
+    return await self._retry_request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1651, in _retry_request
+    return await self._request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1582, in _request
+    return await self._retry_request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1651, in _retry_request
+    return await self._request(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\anthropic\_base_client.py", line 1592, in _request
+    raise APIConnectionError(request=request) from err
+anthropic.APIConnectionError: Connection error.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 36, in invoke_model
+    with self.app.app_context():
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\flask\ctx.py", line 284, in __exit__
+    self.pop(exc_value)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\flask\ctx.py", line 262, in pop
+    self.app.do_teardown_appcontext(exc)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\flask\app.py", line 1344, in do_teardown_appcontext
+    self.ensure_sync(func)(exc)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\asgiref\sync.py", line 187, in __call__
+    raise RuntimeError(
+RuntimeError: You cannot use AsyncToSync in the same thread as an async event loop - just await the async function directly.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\asyncio\__init__.py", line 114, in __call__
+    result = await fn(*args, **kwargs)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 55, in invoke_model
+    raise RuntimeError(f"Failed to invoke Anthropic model: {str(e)}") from e
+RuntimeError: Failed to invoke Anthropic model: You cannot use AsyncToSync in the same thread as an async event loop - just await the async function directly.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 101, in match_patient_to_trials
+    response = await self.invoke_model(messages)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\asyncio\__init__.py", line 189, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\asyncio\__init__.py", line 111, in __call__
+    do = await self.iter(retry_state=retry_state)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\asyncio\__init__.py", line 153, in iter
+    result = await action(retry_state)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\_utils.py", line 99, in inner
+    return call(*args, **kwargs)
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\tenacity\__init__.py", line 419, in exc_check
+    raise retry_exc from fut.exception()
+tenacity.RetryError: RetryError[<Future at 0x212af256800 state=finished raised RuntimeError>]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\trial_matching_service.py", line 41, in match_patient_to_trials
+    logger.info(f"Patient profile found: {patient.__dict__}")
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\anthropic_service.py", line 108, in match_patient_to_trials
+    raise RuntimeError(f"Unexpected error in match_patient_to_trials: {str(e)}") from e
+RuntimeError: Unexpected error in match_patient_to_trials: RetryError[<Future at 0x212af256800 state=finished raised RuntimeError>]
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\routes\trial_matching.py", line 22, in start_matching_process
+    return current_app.trial_matching_service
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\trial_matching_service.py", line 54, in match_patient_to_trials
+    timeout=60.0  # 60 seconds timeout
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\backend\app\services\trial_matching_service.py", line 64, in _update_matching_status
+    await self._update_matching_status(user_id, 'completed')
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\motor\metaprogramming.py", line 75, in method
+    return framework.run_on_executor(
+  File "C:\Users\ethan\Documents\ai_clinical_trial_screener\venv\lib\site-packages\motor\frameworks\asyncio\__init__.py", line 85, in run_on_executor
+    return loop.run_in_executor(_EXECUTOR, functools.partial(fn, *args, **kwargs))
+  File "C:\Users\ethan\anaconda3\lib\asyncio\base_events.py", line 821, in run_in_executor
+    executor.submit(func, *args), loop=self)
+  File "C:\Users\ethan\anaconda3\lib\concurrent\futures\thread.py", line 167, in submit
+    raise RuntimeError('cannot schedule new futures after shutdown')
+RuntimeError: cannot schedule new futures after shutdown

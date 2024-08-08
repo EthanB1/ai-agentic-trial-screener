@@ -1,0 +1,1488 @@
+2024-08-07 20:19:53,347 - app - INFO - Initializing Flask app...
+2024-08-07 20:19:53,349 - app - INFO - Configuring app...
+2024-08-07 20:19:53,350 - app - INFO - Setting up CORS...
+2024-08-07 20:19:53,351 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 20:19:53,672 - app - INFO - Initializing JWT manager...
+2024-08-07 20:19:53,672 - app - INFO - Setting up rate limiting...
+2024-08-07 20:19:53,675 - app - INFO - Setting up database...
+2024-08-07 20:19:53,675 - app - INFO - Starting database setup...
+2024-08-07 20:19:54,243 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 20:19:54,244 - app - INFO - Database setup completed successfully
+2024-08-07 20:19:54,245 - app - INFO - Registering error handler...
+2024-08-07 20:19:54,245 - app - INFO - Initializing CLI commands...
+2024-08-07 20:19:54,246 - app - INFO - Registering routes...
+2024-08-07 20:19:54,286 - app - INFO - Initializing Flask app...
+2024-08-07 20:19:54,289 - app - INFO - Configuring app...
+2024-08-07 20:19:54,291 - app - INFO - Setting up CORS...
+2024-08-07 20:19:54,292 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 20:19:54,296 - app - INFO - Initializing JWT manager...
+2024-08-07 20:19:54,297 - app - INFO - Setting up rate limiting...
+2024-08-07 20:19:54,299 - app - INFO - Setting up database...
+2024-08-07 20:19:54,300 - app - INFO - Starting database setup...
+2024-08-07 20:19:54,301 - app - INFO - Database setup completed successfully
+2024-08-07 20:19:54,303 - app - INFO - Registering error handler...
+2024-08-07 20:19:54,304 - app - INFO - Initializing CLI commands...
+2024-08-07 20:19:54,304 - app - INFO - Registering routes...
+2024-08-07 20:27:39,747 - app - INFO - Initializing Flask app...
+2024-08-07 20:27:39,749 - app - INFO - Configuring app...
+2024-08-07 20:27:39,749 - app - INFO - Setting up CORS...
+2024-08-07 20:27:39,750 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 20:27:39,994 - app - INFO - Initializing JWT manager...
+2024-08-07 20:27:39,995 - app - INFO - Setting up rate limiting...
+2024-08-07 20:27:39,996 - app - INFO - Setting up database...
+2024-08-07 20:27:39,997 - app - INFO - Starting database setup...
+2024-08-07 20:27:40,612 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 20:27:40,613 - app - INFO - Database setup completed successfully
+2024-08-07 20:27:40,615 - app - INFO - Registering error handler...
+2024-08-07 20:27:40,615 - app - INFO - Initializing CLI commands...
+2024-08-07 20:27:40,616 - app - INFO - Registering routes...
+2024-08-07 21:08:46,262 - app - INFO - Initializing Flask app...
+2024-08-07 21:08:46,265 - app - INFO - Configuring app...
+2024-08-07 21:08:46,265 - app - INFO - Setting up CORS...
+2024-08-07 21:08:46,266 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 21:08:46,267 - app - INFO - Initializing Celery...
+2024-08-07 21:08:46,268 - app - INFO - Initializing SocketIO...
+2024-08-07 21:08:46,565 - app - INFO - Initializing JWT manager...
+2024-08-07 21:08:46,565 - app - INFO - Setting up rate limiting...
+2024-08-07 21:08:46,566 - app - INFO - Setting up database...
+2024-08-07 21:08:46,566 - app - INFO - Starting database setup...
+2024-08-07 21:08:47,632 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 21:08:47,632 - app - INFO - Database setup completed successfully
+2024-08-07 21:08:47,633 - app - INFO - Registering error handler...
+2024-08-07 21:08:47,634 - app - INFO - Initializing CLI commands...
+2024-08-07 21:08:47,635 - app - INFO - Registering routes...
+2024-08-07 21:08:47,648 - app - INFO - Initializing services...
+2024-08-07 21:08:47,660 - app - INFO - Initializing email service...
+2024-08-07 21:08:47,661 - app - INFO - Setting up scheduler...
+2024-08-07 21:08:47,665 - app - INFO - Initializing scheduler...
+2024-08-07 21:08:47,665 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 21:08:47,665 - app - INFO - Application initialized successfully
+2024-08-07 21:21:45,681 - app - INFO - Initializing Flask app...
+2024-08-07 21:21:45,683 - app - INFO - Configuring app...
+2024-08-07 21:21:45,683 - app - INFO - Setting up CORS...
+2024-08-07 21:21:45,684 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 21:21:45,684 - app - INFO - Initializing Celery...
+2024-08-07 21:21:45,685 - app - INFO - Initializing SocketIO...
+2024-08-07 21:21:45,965 - app - INFO - Initializing JWT manager...
+2024-08-07 21:21:45,965 - app - INFO - Setting up rate limiting...
+2024-08-07 21:21:45,966 - app - INFO - Setting up database...
+2024-08-07 21:21:45,966 - app - INFO - Starting database setup...
+2024-08-07 21:21:46,696 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 21:21:46,696 - app - INFO - Database setup completed successfully
+2024-08-07 21:21:46,697 - app - INFO - Registering error handler...
+2024-08-07 21:21:46,697 - app - INFO - Initializing CLI commands...
+2024-08-07 21:21:46,698 - app - INFO - Registering routes...
+2024-08-07 21:21:46,713 - app - INFO - Initializing services...
+2024-08-07 21:21:46,728 - app - INFO - Initializing email service...
+2024-08-07 21:21:46,728 - app - INFO - Setting up scheduler...
+2024-08-07 21:21:46,730 - app - INFO - Initializing scheduler...
+2024-08-07 21:21:46,732 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 21:21:46,732 - app - INFO - Application initialized successfully
+2024-08-07 21:31:14,089 - app - INFO - Initializing Flask app...
+2024-08-07 21:31:14,091 - app - INFO - Configuring app...
+2024-08-07 21:31:14,092 - app - INFO - Setting up CORS...
+2024-08-07 21:31:14,093 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 21:31:14,093 - app - INFO - Initializing Celery...
+2024-08-07 21:31:14,093 - app - INFO - Initializing SocketIO...
+2024-08-07 21:31:14,350 - app - INFO - Initializing JWT manager...
+2024-08-07 21:31:14,351 - app - INFO - Setting up rate limiting...
+2024-08-07 21:31:14,352 - app - INFO - Setting up database...
+2024-08-07 21:31:14,352 - app - INFO - Starting database setup...
+2024-08-07 21:31:15,029 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 21:31:15,030 - app - INFO - Database setup completed successfully
+2024-08-07 21:31:15,030 - app - INFO - Registering error handler...
+2024-08-07 21:31:15,031 - app - INFO - Initializing CLI commands...
+2024-08-07 21:31:15,031 - app - INFO - Registering routes...
+2024-08-07 21:31:15,044 - app - INFO - Initializing services...
+2024-08-07 21:31:15,057 - app - INFO - Initializing email service...
+2024-08-07 21:31:15,058 - app - INFO - Setting up scheduler...
+2024-08-07 21:31:15,059 - app - INFO - Initializing scheduler...
+2024-08-07 21:31:15,060 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 21:31:15,060 - app - INFO - Application initialized successfully
+2024-08-07 21:35:45,580 - app - INFO - Initializing Flask app...
+2024-08-07 21:35:45,582 - app - INFO - Configuring app...
+2024-08-07 21:35:45,582 - app - INFO - Setting up CORS...
+2024-08-07 21:35:45,583 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 21:35:45,583 - app - INFO - Initializing Celery...
+2024-08-07 21:35:45,584 - app - INFO - Initializing SocketIO...
+2024-08-07 21:35:45,918 - app - INFO - Initializing JWT manager...
+2024-08-07 21:35:45,918 - app - INFO - Setting up rate limiting...
+2024-08-07 21:35:45,920 - app - INFO - Setting up database...
+2024-08-07 21:35:45,920 - app - INFO - Starting database setup...
+2024-08-07 21:35:46,618 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 21:35:46,618 - app - INFO - Database setup completed successfully
+2024-08-07 21:35:46,619 - app - INFO - Registering error handler...
+2024-08-07 21:35:46,619 - app - INFO - Initializing CLI commands...
+2024-08-07 21:35:46,619 - app - INFO - Registering routes...
+2024-08-07 21:35:46,632 - app - INFO - Initializing services...
+2024-08-07 21:35:46,646 - app - INFO - Initializing email service...
+2024-08-07 21:35:46,646 - app - INFO - Setting up scheduler...
+2024-08-07 21:35:46,649 - app - INFO - Initializing scheduler...
+2024-08-07 21:35:46,649 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 21:35:46,650 - app - INFO - Application initialized successfully
+2024-08-07 21:41:46,837 - app - INFO - Initializing Flask app...
+2024-08-07 21:41:46,839 - app - INFO - Configuring app...
+2024-08-07 21:41:46,839 - app - INFO - Setting up CORS...
+2024-08-07 21:41:46,840 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 21:41:46,840 - app - INFO - Initializing Celery...
+2024-08-07 21:41:46,841 - app - INFO - Initializing SocketIO...
+2024-08-07 21:41:47,136 - app - INFO - Initializing JWT manager...
+2024-08-07 21:41:47,136 - app - INFO - Setting up rate limiting...
+2024-08-07 21:41:47,137 - app - INFO - Setting up database...
+2024-08-07 21:41:47,138 - app - INFO - Starting database setup...
+2024-08-07 21:41:48,478 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 21:41:48,478 - app - INFO - Database setup completed successfully
+2024-08-07 21:41:48,479 - app - INFO - Registering error handler...
+2024-08-07 21:41:48,479 - app - INFO - Initializing CLI commands...
+2024-08-07 21:41:48,479 - app - INFO - Registering routes...
+2024-08-07 21:41:48,492 - app - INFO - Initializing services...
+2024-08-07 21:41:48,508 - app - INFO - Initializing email service...
+2024-08-07 21:41:48,508 - app - INFO - Setting up scheduler...
+2024-08-07 21:41:48,511 - app - INFO - Initializing scheduler...
+2024-08-07 21:41:48,512 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 21:41:48,512 - app - INFO - Application initialized successfully
+2024-08-07 22:29:52,708 - app - INFO - Initializing Flask app...
+2024-08-07 22:29:52,710 - app - INFO - Configuring app...
+2024-08-07 22:29:52,710 - app - INFO - Setting up CORS...
+2024-08-07 22:29:52,710 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 22:29:52,711 - app - INFO - Initializing Celery...
+2024-08-07 22:29:52,711 - app - INFO - Initializing SocketIO...
+2024-08-07 22:29:53,033 - app - INFO - Initializing JWT manager...
+2024-08-07 22:29:53,033 - app - INFO - Setting up rate limiting...
+2024-08-07 22:29:53,037 - app - INFO - Setting up database...
+2024-08-07 22:29:53,038 - app - INFO - Starting database setup...
+2024-08-07 22:29:53,628 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 22:29:53,628 - app - INFO - Database setup completed successfully
+2024-08-07 22:29:53,630 - app - INFO - Registering error handler...
+2024-08-07 22:29:53,630 - app - INFO - Initializing CLI commands...
+2024-08-07 22:29:53,631 - app - INFO - Registering routes...
+2024-08-07 22:29:53,645 - app - INFO - Initializing services...
+2024-08-07 22:29:53,661 - app - INFO - Initializing email service...
+2024-08-07 22:29:53,661 - app - INFO - Setting up scheduler...
+2024-08-07 22:29:53,663 - app - INFO - Initializing scheduler...
+2024-08-07 22:29:53,664 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 22:29:53,665 - app - INFO - Application initialized successfully
+2024-08-07 22:51:28,142 - app - INFO - Initializing Flask app...
+2024-08-07 22:51:28,143 - app - INFO - Configuring app...
+2024-08-07 22:51:28,144 - app - INFO - Setting up CORS...
+2024-08-07 22:51:28,144 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 22:51:28,144 - app - INFO - Initializing Celery...
+2024-08-07 22:51:28,144 - app - INFO - Initializing SocketIO...
+2024-08-07 22:51:28,366 - app - INFO - Initializing JWT manager...
+2024-08-07 22:51:28,366 - app - INFO - Setting up rate limiting...
+2024-08-07 22:51:28,367 - app - INFO - Setting up database...
+2024-08-07 22:51:28,367 - app - INFO - Starting database setup...
+2024-08-07 22:51:28,958 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 22:51:28,959 - app - INFO - Database setup completed successfully
+2024-08-07 22:51:28,959 - app - INFO - Registering error handler...
+2024-08-07 22:51:28,959 - app - INFO - Initializing CLI commands...
+2024-08-07 22:51:28,959 - app - INFO - Registering routes...
+2024-08-07 22:51:28,967 - app - INFO - Initializing services...
+2024-08-07 22:51:28,975 - app - INFO - Initializing email service...
+2024-08-07 22:51:28,975 - app - INFO - Setting up scheduler...
+2024-08-07 22:51:28,977 - app - INFO - Initializing scheduler...
+2024-08-07 22:51:28,977 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 22:51:28,977 - app - INFO - Application initialized successfully
+2024-08-07 23:01:42,824 - app - INFO - Initializing Flask app...
+2024-08-07 23:01:42,825 - app - INFO - Configuring app...
+2024-08-07 23:01:42,826 - app - INFO - Setting up CORS...
+2024-08-07 23:01:42,827 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 23:01:42,827 - app - INFO - Initializing Celery...
+2024-08-07 23:01:42,827 - app - INFO - Initializing SocketIO...
+2024-08-07 23:01:43,056 - app - INFO - Initializing JWT manager...
+2024-08-07 23:01:43,056 - app - INFO - Setting up rate limiting...
+2024-08-07 23:01:43,057 - app - INFO - Setting up database...
+2024-08-07 23:01:43,057 - app - INFO - Starting database setup...
+2024-08-07 23:01:43,628 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 23:01:43,628 - app - INFO - Database setup completed successfully
+2024-08-07 23:01:43,628 - app - INFO - Registering error handler...
+2024-08-07 23:01:43,629 - app - INFO - Initializing CLI commands...
+2024-08-07 23:01:43,629 - app - INFO - Registering routes...
+2024-08-07 23:01:43,639 - app - INFO - Initializing services...
+2024-08-07 23:01:43,648 - app - INFO - Initializing email service...
+2024-08-07 23:01:43,648 - app - INFO - Setting up scheduler...
+2024-08-07 23:01:43,650 - app - INFO - Initializing scheduler...
+2024-08-07 23:01:43,651 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 23:01:43,651 - app - INFO - Application initialized successfully
+2024-08-07 23:08:33,142 - app - INFO - Initializing Flask app...
+2024-08-07 23:08:33,143 - app - INFO - Configuring app...
+2024-08-07 23:08:33,144 - app - INFO - Setting up CORS...
+2024-08-07 23:08:33,144 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 23:08:33,144 - app - INFO - Initializing Celery...
+2024-08-07 23:08:33,145 - app - INFO - Initializing SocketIO...
+2024-08-07 23:08:33,362 - app - INFO - Initializing JWT manager...
+2024-08-07 23:08:33,362 - app - INFO - Setting up rate limiting...
+2024-08-07 23:08:33,363 - app - INFO - Setting up database...
+2024-08-07 23:08:33,364 - app - INFO - Starting database setup...
+2024-08-07 23:08:33,919 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 23:08:33,919 - app - INFO - Database setup completed successfully
+2024-08-07 23:08:33,920 - app - INFO - Registering error handler...
+2024-08-07 23:08:33,920 - app - INFO - Initializing CLI commands...
+2024-08-07 23:08:33,920 - app - INFO - Registering routes...
+2024-08-07 23:08:33,928 - app - INFO - Initializing services...
+2024-08-07 23:08:33,937 - app - INFO - Initializing email service...
+2024-08-07 23:08:33,937 - app - INFO - Setting up scheduler...
+2024-08-07 23:08:33,939 - app - INFO - Initializing scheduler...
+2024-08-07 23:08:33,939 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 23:08:33,939 - app - INFO - Application initialized successfully
+2024-08-07 23:40:40,609 - app - INFO - Initializing Flask app...
+2024-08-07 23:40:40,610 - app - INFO - Configuring app...
+2024-08-07 23:40:40,610 - app - INFO - Setting up CORS...
+2024-08-07 23:40:40,611 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 23:40:40,611 - app - INFO - Initializing Celery...
+2024-08-07 23:40:40,611 - app - INFO - Initializing SocketIO...
+2024-08-07 23:40:40,837 - app - INFO - Initializing JWT manager...
+2024-08-07 23:40:40,838 - app - INFO - Setting up rate limiting...
+2024-08-07 23:40:40,838 - app - INFO - Setting up database...
+2024-08-07 23:40:40,839 - app - INFO - Starting database setup...
+2024-08-07 23:40:41,421 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 23:40:41,422 - app - INFO - Database setup completed successfully
+2024-08-07 23:40:41,422 - app - INFO - Registering error handler...
+2024-08-07 23:40:41,422 - app - INFO - Initializing CLI commands...
+2024-08-07 23:40:41,422 - app - INFO - Registering routes...
+2024-08-07 23:40:41,430 - app - INFO - Initializing services...
+2024-08-07 23:40:41,438 - app - INFO - Initializing email service...
+2024-08-07 23:40:41,459 - app - INFO - Setting up scheduler...
+2024-08-07 23:40:41,461 - app - INFO - Initializing scheduler...
+2024-08-07 23:40:41,462 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 23:40:41,462 - app - INFO - Application initialized successfully
+2024-08-07 23:47:23,668 - app - INFO - Initializing Flask app...
+2024-08-07 23:47:23,669 - app - INFO - Configuring app...
+2024-08-07 23:47:23,669 - app - INFO - Setting up CORS...
+2024-08-07 23:47:23,670 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 23:47:23,670 - app - INFO - Initializing Celery...
+2024-08-07 23:47:23,670 - app - INFO - Initializing SocketIO...
+2024-08-07 23:47:23,890 - app - INFO - Initializing JWT manager...
+2024-08-07 23:47:23,890 - app - INFO - Setting up rate limiting...
+2024-08-07 23:47:23,891 - app - INFO - Setting up database...
+2024-08-07 23:47:23,891 - app - INFO - Starting database setup...
+2024-08-07 23:47:24,415 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 23:47:24,415 - app - INFO - Database setup completed successfully
+2024-08-07 23:47:24,415 - app - INFO - Registering error handler...
+2024-08-07 23:47:24,416 - app - INFO - Initializing CLI commands...
+2024-08-07 23:47:24,416 - app - INFO - Registering routes...
+2024-08-07 23:47:24,422 - app - INFO - Initializing services...
+2024-08-07 23:47:24,431 - app - INFO - Initializing email service...
+2024-08-07 23:47:24,432 - app - INFO - Setting up scheduler...
+2024-08-07 23:47:24,433 - app - INFO - Initializing scheduler...
+2024-08-07 23:47:24,433 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 23:47:24,434 - app - INFO - Application initialized successfully
+2024-08-07 23:49:01,198 - app - INFO - Initializing Flask app...
+2024-08-07 23:49:01,199 - app - INFO - Configuring app...
+2024-08-07 23:49:01,200 - app - INFO - Setting up CORS...
+2024-08-07 23:49:01,200 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-07 23:49:01,200 - app - INFO - Initializing Celery...
+2024-08-07 23:49:01,201 - app - INFO - Initializing SocketIO...
+2024-08-07 23:49:01,417 - app - INFO - Initializing JWT manager...
+2024-08-07 23:49:01,417 - app - INFO - Setting up rate limiting...
+2024-08-07 23:49:01,418 - app - INFO - Setting up database...
+2024-08-07 23:49:01,418 - app - INFO - Starting database setup...
+2024-08-07 23:49:01,882 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-07 23:49:01,882 - app - INFO - Database setup completed successfully
+2024-08-07 23:49:01,883 - app - INFO - Registering error handler...
+2024-08-07 23:49:01,883 - app - INFO - Initializing CLI commands...
+2024-08-07 23:49:01,883 - app - INFO - Registering routes...
+2024-08-07 23:49:01,891 - app - INFO - Initializing services...
+2024-08-07 23:49:01,899 - app - INFO - Initializing email service...
+2024-08-07 23:49:01,900 - app - INFO - Setting up scheduler...
+2024-08-07 23:49:01,901 - app - INFO - Initializing scheduler...
+2024-08-07 23:49:01,901 - app.scheduler - INFO - Scheduler initialized
+2024-08-07 23:49:01,901 - app - INFO - Application initialized successfully
+2024-08-08 00:16:55,934 - app - INFO - Initializing Flask app...
+2024-08-08 00:16:55,936 - app - INFO - Configuring app...
+2024-08-08 00:16:55,936 - app - INFO - Setting up CORS...
+2024-08-08 00:16:55,937 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-08 00:16:55,937 - app - INFO - Initializing Celery...
+2024-08-08 00:16:55,938 - app - INFO - Initializing SocketIO...
+2024-08-08 00:16:56,246 - app - INFO - Initializing JWT manager...
+2024-08-08 00:16:56,247 - app - INFO - Setting up rate limiting...
+2024-08-08 00:16:56,247 - app - INFO - Setting up database...
+2024-08-08 00:16:56,248 - app - INFO - Starting database setup...
+2024-08-08 00:16:56,793 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-08 00:16:56,793 - app - INFO - Database setup completed successfully
+2024-08-08 00:16:56,794 - app - INFO - Registering error handler...
+2024-08-08 00:16:56,795 - app - INFO - Initializing CLI commands...
+2024-08-08 00:16:56,795 - app - INFO - Registering routes...
+2024-08-08 00:16:56,806 - app - INFO - Initializing services...
+2024-08-08 00:16:56,820 - app - INFO - Initializing email service...
+2024-08-08 00:16:56,821 - app - INFO - Setting up scheduler...
+2024-08-08 00:16:56,823 - app - INFO - Initializing scheduler...
+2024-08-08 00:16:56,823 - app.scheduler - INFO - Scheduler initialized
+2024-08-08 00:16:56,823 - app - INFO - Application initialized successfully
+2024-08-08 01:24:41,624 - app - INFO - Initializing Flask app...
+2024-08-08 01:24:41,626 - app - INFO - Configuring app...
+2024-08-08 01:24:41,627 - app - INFO - Setting up CORS...
+2024-08-08 01:24:41,627 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-08 01:24:41,628 - app - INFO - Initializing Celery...
+2024-08-08 01:24:41,628 - app - INFO - Initializing JWT manager...
+2024-08-08 01:24:41,629 - app - INFO - Setting up rate limiting...
+2024-08-08 01:24:41,629 - app - INFO - Setting up database...
+2024-08-08 01:24:41,630 - app - INFO - Starting database setup...
+2024-08-08 01:24:42,297 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-08 01:24:42,297 - app - INFO - Database setup completed successfully
+2024-08-08 01:24:42,298 - app - INFO - Registering error handler...
+2024-08-08 01:24:42,298 - app - INFO - Initializing CLI commands...
+2024-08-08 01:24:42,298 - app - INFO - Registering routes...
+2024-08-08 01:24:42,309 - app - INFO - Initializing services...
+2024-08-08 01:24:42,324 - app - INFO - Initializing email service...
+2024-08-08 01:24:42,324 - app - INFO - Setting up scheduler...
+2024-08-08 01:24:42,328 - app - INFO - Initializing scheduler...
+2024-08-08 01:24:42,328 - app.scheduler - INFO - Scheduler initialized
+2024-08-08 01:24:42,329 - app - INFO - Application initialized successfully
+2024-08-08 16:51:18,499 - app - INFO - Initializing Flask app...
+2024-08-08 16:51:18,503 - app - INFO - Configuring app...
+2024-08-08 16:51:18,504 - app - INFO - Setting up CORS...
+2024-08-08 16:51:18,505 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-08 16:51:18,506 - app - INFO - Initializing JWT manager...
+2024-08-08 16:51:18,507 - app - INFO - Setting up rate limiting...
+2024-08-08 16:51:18,510 - app - INFO - Setting up database...
+2024-08-08 16:51:18,511 - app - INFO - Starting database setup...
+2024-08-08 16:51:19,193 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-08 16:51:19,193 - app - INFO - Database setup completed successfully
+2024-08-08 16:51:19,194 - app - INFO - Registering error handler...
+2024-08-08 16:51:19,195 - app - INFO - Initializing CLI commands...
+2024-08-08 16:51:19,196 - app - INFO - Registering routes...
+2024-08-08 16:51:19,204 - app - INFO - Initializing services...
+2024-08-08 16:51:19,217 - app - INFO - Initializing email service...
+2024-08-08 16:51:19,218 - app - INFO - Setting up scheduler...
+2024-08-08 16:51:19,222 - app - INFO - Initializing scheduler...
+2024-08-08 16:51:19,223 - app.scheduler - INFO - Scheduler initialized
+2024-08-08 16:51:19,224 - app - INFO - Application initialized successfully
+2024-08-08 16:51:19,226 - app.database - INFO - Attempting to establish database connection...
+2024-08-08 16:51:19,917 - app.database - INFO - Database connection established successfully
+2024-08-08 16:51:19,963 - app.services.clinical_trials_gov_service - INFO - No existing trials found in the database. Fetching all available trials.
+2024-08-08 16:51:19,964 - app.services.clinical_trials_gov_service - INFO - Starting fetch of trials updated after None
+2024-08-08 16:51:20,176 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:51:20,299 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00517179
+2024-08-08 16:51:20,377 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00812279
+2024-08-08 16:51:20,525 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01126879
+2024-08-08 16:51:20,572 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05865379
+2024-08-08 16:51:20,730 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02385279
+2024-08-08 16:51:20,781 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04128579
+2024-08-08 16:51:20,971 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03235479
+2024-08-08 16:51:21,111 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05042479
+2024-08-08 16:51:21,193 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00332579
+2024-08-08 16:51:21,325 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00717379
+2024-08-08 16:51:21,387 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01294579
+2024-08-08 16:51:21,766 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04665479
+2024-08-08 16:51:21,904 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02334579
+2024-08-08 16:51:22,070 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00372879
+2024-08-08 16:51:22,121 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03284879
+2024-08-08 16:51:22,265 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03923179
+2024-08-08 16:51:22,314 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04850079
+2024-08-08 16:51:22,690 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03470779
+2024-08-08 16:51:22,822 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03964779
+2024-08-08 16:51:22,985 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03111979
+2024-08-08 16:51:23,124 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01070979
+2024-08-08 16:51:23,278 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06187779
+2024-08-08 16:51:23,562 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06351579
+2024-08-08 16:51:23,656 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06441279
+2024-08-08 16:51:23,703 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06426979
+2024-08-08 16:51:23,748 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04215679
+2024-08-08 16:51:23,806 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00714779
+2024-08-08 16:51:23,914 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04180579
+2024-08-08 16:51:23,965 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02911779
+2024-08-08 16:51:24,021 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06233279
+2024-08-08 16:51:24,205 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02825979
+2024-08-08 16:51:24,418 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05433779
+2024-08-08 16:51:24,621 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00170079
+2024-08-08 16:51:24,667 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05800379
+2024-08-08 16:51:24,843 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05943379
+2024-08-08 16:51:24,934 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04361279
+2024-08-08 16:51:25,044 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01104779
+2024-08-08 16:51:25,134 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02740179
+2024-08-08 16:51:25,172 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 22, Updated: 16. Total new: 22, Total updated: 16
+2024-08-08 16:51:27,346 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:51:27,458 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05474079
+2024-08-08 16:51:27,704 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02559479
+2024-08-08 16:51:27,752 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01334879
+2024-08-08 16:51:27,804 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05827679
+2024-08-08 16:51:27,902 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00856479
+2024-08-08 16:51:28,160 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04011579
+2024-08-08 16:51:28,347 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05331079
+2024-08-08 16:51:28,596 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00943579
+2024-08-08 16:51:28,696 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06384079
+2024-08-08 16:51:28,977 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01971879
+2024-08-08 16:51:29,184 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00305279
+2024-08-08 16:51:29,231 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06536179
+2024-08-08 16:51:29,275 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02240979
+2024-08-08 16:51:29,339 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03144479
+2024-08-08 16:51:29,384 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05700279
+2024-08-08 16:51:29,433 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05684679
+2024-08-08 16:51:29,477 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04086979
+2024-08-08 16:51:29,564 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04861779
+2024-08-08 16:51:30,218 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04547179
+2024-08-08 16:51:30,522 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04184479
+2024-08-08 16:51:30,567 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03434379
+2024-08-08 16:51:30,918 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03626779
+2024-08-08 16:51:31,003 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05295979
+2024-08-08 16:51:31,275 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05281679
+2024-08-08 16:51:31,330 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03183479
+2024-08-08 16:51:31,448 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02497079
+2024-08-08 16:51:31,705 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00537979
+2024-08-08 16:51:31,836 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02498379
+2024-08-08 16:51:32,080 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02364479
+2024-08-08 16:51:32,302 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04075279
+2024-08-08 16:51:32,304 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 18, Updated: 12. Total new: 40, Total updated: 28
+2024-08-08 16:51:34,507 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:51:34,674 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04014179
+2024-08-08 16:51:34,940 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06413979
+2024-08-08 16:51:35,086 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04722679
+2024-08-08 16:51:35,137 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03236779
+2024-08-08 16:51:35,193 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04063579
+2024-08-08 16:51:35,330 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05002179
+2024-08-08 16:51:35,937 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01867879
+2024-08-08 16:51:36,523 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03479879
+2024-08-08 16:51:37,239 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05787379
+2024-08-08 16:51:37,303 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02641379
+2024-08-08 16:51:37,355 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01125579
+2024-08-08 16:51:37,398 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04467879
+2024-08-08 16:51:37,447 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05813379
+2024-08-08 16:51:37,490 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01561079
+2024-08-08 16:51:37,890 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04071379
+2024-08-08 16:51:37,939 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04168879
+2024-08-08 16:51:37,990 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05882279
+2024-08-08 16:51:38,164 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04206579
+2024-08-08 16:51:38,218 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03375879
+2024-08-08 16:51:38,269 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01648179
+2024-08-08 16:51:38,316 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03695679
+2024-08-08 16:51:38,359 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04599179
+2024-08-08 16:51:38,411 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05622279
+2024-08-08 16:51:38,458 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00571779
+2024-08-08 16:51:38,502 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03538379
+2024-08-08 16:51:38,552 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00004479
+2024-08-08 16:51:38,596 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02837679
+2024-08-08 16:51:38,650 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00261079
+2024-08-08 16:51:38,743 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02170779
+2024-08-08 16:51:38,844 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00005179
+2024-08-08 16:51:38,886 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05562479
+2024-08-08 16:51:39,272 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06229379
+2024-08-08 16:51:39,316 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05797779
+2024-08-08 16:51:39,373 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06189079
+2024-08-08 16:51:39,373 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 12, Updated: 22. Total new: 52, Total updated: 50
+2024-08-08 16:51:41,553 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:51:41,605 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02690779
+2024-08-08 16:51:41,659 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05332379
+2024-08-08 16:51:42,086 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02660879
+2024-08-08 16:51:42,129 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05160779
+2024-08-08 16:51:42,178 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05925179
+2024-08-08 16:51:42,220 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04218279
+2024-08-08 16:51:42,268 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00263679
+2024-08-08 16:51:42,315 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05579379
+2024-08-08 16:51:45,431 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00436579
+2024-08-08 16:51:45,479 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00462579
+2024-08-08 16:51:45,737 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05918679
+2024-08-08 16:51:45,789 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02664779
+2024-08-08 16:51:46,182 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03655379
+2024-08-08 16:51:46,238 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04551079
+2024-08-08 16:51:46,287 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03799679
+2024-08-08 16:51:46,331 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 4, Updated: 11. Total new: 56, Total updated: 61
+2024-08-08 16:51:48,524 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:51:48,787 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02110979
+2024-08-08 16:51:48,844 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04366479
+2024-08-08 16:51:48,912 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01772979
+2024-08-08 16:51:49,411 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03544879
+2024-08-08 16:51:49,466 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05858879
+2024-08-08 16:51:49,562 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03221179
+2024-08-08 16:51:49,698 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05511779
+2024-08-08 16:51:50,788 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04788979
+2024-08-08 16:51:50,856 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00002179
+2024-08-08 16:51:50,955 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04668079
+2024-08-08 16:51:50,998 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03932279
+2024-08-08 16:51:51,043 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02819479
+2024-08-08 16:51:51,371 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04328779
+2024-08-08 16:51:51,864 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01928979
+2024-08-08 16:51:51,911 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00801879
+2024-08-08 16:51:52,124 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00218179
+2024-08-08 16:51:52,178 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02426879
+2024-08-08 16:51:52,463 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03326479
+2024-08-08 16:51:52,608 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00896779
+2024-08-08 16:51:52,703 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00821379
+2024-08-08 16:51:52,970 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00840879
+2024-08-08 16:51:53,024 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00732979
+2024-08-08 16:51:53,082 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00071279
+2024-08-08 16:51:53,556 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 9, Updated: 14. Total new: 65, Total updated: 75
+2024-08-08 16:51:55,709 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:51:56,131 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04539379
+2024-08-08 16:51:56,765 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04371679
+2024-08-08 16:51:56,813 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03600779
+2024-08-08 16:51:56,994 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04140279
+2024-08-08 16:51:57,135 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02915679
+2024-08-08 16:51:57,229 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02643979
+2024-08-08 16:51:58,182 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05481879
+2024-08-08 16:51:58,235 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03889379
+2024-08-08 16:51:58,278 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05702879
+2024-08-08 16:51:58,323 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06506279
+2024-08-08 16:51:58,803 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05111379
+2024-08-08 16:51:59,543 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01654679
+2024-08-08 16:51:59,587 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05757479
+2024-08-08 16:51:59,636 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00799279
+2024-08-08 16:51:59,681 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02872779
+2024-08-08 16:51:59,744 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06296979
+2024-08-08 16:52:00,502 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05230979
+2024-08-08 16:52:00,554 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05063279
+2024-08-08 16:52:00,633 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02909179
+2024-08-08 16:52:00,678 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01029379
+2024-08-08 16:52:00,723 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05306379
+2024-08-08 16:52:00,781 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04159779
+2024-08-08 16:52:00,825 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04692779
+2024-08-08 16:52:00,826 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 7, Updated: 16. Total new: 72, Total updated: 91
+2024-08-08 16:52:03,044 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:52:03,235 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06537479
+2024-08-08 16:52:03,541 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03329079
+2024-08-08 16:52:03,597 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06469879
+2024-08-08 16:52:03,642 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00679679
+2024-08-08 16:52:03,717 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00569179
+2024-08-08 16:52:03,767 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04825379
+2024-08-08 16:52:04,147 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04674579
+2024-08-08 16:52:04,194 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03881579
+2024-08-08 16:52:04,289 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04548479
+2024-08-08 16:52:04,335 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04077879
+2024-08-08 16:52:04,382 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00007579
+2024-08-08 16:52:04,808 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00916279
+2024-08-08 16:52:04,875 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00519779
+2024-08-08 16:52:04,919 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02731079
+2024-08-08 16:52:04,964 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00400179
+2024-08-08 16:52:05,044 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01271179
+2024-08-08 16:52:05,090 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01731379
+2024-08-08 16:52:05,133 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04948879
+2024-08-08 16:52:05,179 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00198679
+2024-08-08 16:52:05,229 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02649179
+2024-08-08 16:52:05,278 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04396379
+2024-08-08 16:52:05,322 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05298579
+2024-08-08 16:52:05,368 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02875379
+2024-08-08 16:52:05,790 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04188379
+2024-08-08 16:52:05,841 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05680779
+2024-08-08 16:52:06,310 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04341779
+2024-08-08 16:52:06,356 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03317379
+2024-08-08 16:52:07,028 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00002279
+2024-08-08 16:52:07,084 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02760979
+2024-08-08 16:52:07,135 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00742079
+2024-08-08 16:52:07,181 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05744479
+2024-08-08 16:52:07,238 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04917679
+2024-08-08 16:52:07,871 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02300779
+2024-08-08 16:52:07,917 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05779579
+2024-08-08 16:52:07,971 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04970979
+2024-08-08 16:52:08,018 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01613079
+2024-08-08 16:52:08,065 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02538679
+2024-08-08 16:52:08,106 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 16, Updated: 21. Total new: 88, Total updated: 112
+2024-08-08 16:52:10,317 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:52:11,248 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01100879
+2024-08-08 16:52:11,291 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05392179
+2024-08-08 16:52:12,430 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01142479
+2024-08-08 16:52:12,477 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01536379
+2024-08-08 16:52:12,532 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01531179
+2024-08-08 16:52:12,577 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02344979
+2024-08-08 16:52:12,621 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01264679
+2024-08-08 16:52:12,682 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01505179
+2024-08-08 16:52:12,773 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02008279
+2024-08-08 16:52:12,833 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01013779
+2024-08-08 16:52:12,893 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01436279
+2024-08-08 16:52:12,982 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03383679
+2024-08-08 16:52:13,031 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04314479
+2024-08-08 16:52:13,078 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02006979
+2024-08-08 16:52:13,169 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03244579
+2024-08-08 16:52:13,228 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02243579
+2024-08-08 16:52:14,153 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05691179
+2024-08-08 16:52:14,204 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05450679
+2024-08-08 16:52:14,251 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06033079
+2024-08-08 16:52:14,294 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01902979
+2024-08-08 16:52:14,339 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00345579
+2024-08-08 16:52:14,387 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06312579
+2024-08-08 16:52:14,431 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00690079
+2024-08-08 16:52:14,481 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02868879
+2024-08-08 16:52:14,538 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05427279
+2024-08-08 16:52:14,618 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02447679
+2024-08-08 16:52:15,267 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 16, Updated: 10. Total new: 104, Total updated: 122
+2024-08-08 16:52:17,489 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:52:19,178 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00016679
+2024-08-08 16:52:19,940 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04967079
+2024-08-08 16:52:19,985 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04076579
+2024-08-08 16:52:20,030 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03603379
+2024-08-08 16:52:20,075 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04645979
+2024-08-08 16:52:20,130 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00848679
+2024-08-08 16:52:20,176 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02376179
+2024-08-08 16:52:20,240 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04790279
+2024-08-08 16:52:20,313 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03829579
+2024-08-08 16:52:20,380 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05026879
+2024-08-08 16:52:20,517 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02879279
+2024-08-08 16:52:20,578 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02134379
+2024-08-08 16:52:20,724 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00366379
+2024-08-08 16:52:21,428 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00444379
+2024-08-08 16:52:21,471 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04630379
+2024-08-08 16:52:21,518 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01641679
+2024-08-08 16:52:22,164 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04434079
+2024-08-08 16:52:22,208 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00125879
+2024-08-08 16:52:22,308 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00977379
+2024-08-08 16:52:22,352 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02471079
+2024-08-08 16:52:22,400 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00566579
+2024-08-08 16:52:22,450 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01935479
+2024-08-08 16:52:22,501 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02065479
+2024-08-08 16:52:22,546 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06155279
+2024-08-08 16:52:22,588 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06476379
+2024-08-08 16:52:22,589 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 16, Updated: 9. Total new: 120, Total updated: 131
+2024-08-08 16:52:24,828 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:52:26,109 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02727179
+2024-08-08 16:52:26,175 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00461279
+2024-08-08 16:52:26,220 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04505579
+2024-08-08 16:52:26,263 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04088279
+2024-08-08 16:52:27,579 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00554879
+2024-08-08 16:52:27,632 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01568879
+2024-08-08 16:52:27,686 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03386279
+2024-08-08 16:52:27,735 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02017379
+2024-08-08 16:52:27,779 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00667979
+2024-08-08 16:52:27,825 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02019979
+2024-08-08 16:52:27,870 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00005979
+2024-08-08 16:52:27,918 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03319979
+2024-08-08 16:52:27,966 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03569579
+2024-08-08 16:52:28,532 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02823379
+2024-08-08 16:52:29,614 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 9, Updated: 5. Total new: 129, Total updated: 136
+2024-08-08 16:52:31,806 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:52:32,417 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01165879
+2024-08-08 16:52:32,471 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01197079
+2024-08-08 16:52:32,531 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00310479
+2024-08-08 16:52:32,581 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05630079
+2024-08-08 16:52:32,638 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05774379
+2024-08-08 16:52:32,724 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06541379
+2024-08-08 16:52:32,918 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04934579
+2024-08-08 16:52:32,981 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00095979
+2024-08-08 16:52:33,030 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05438979
+2024-08-08 16:52:33,080 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02108379
+2024-08-08 16:52:33,471 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02650479
+2024-08-08 16:52:35,154 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05554679
+2024-08-08 16:52:35,200 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03052179
+2024-08-08 16:52:35,313 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03223779
+2024-08-08 16:52:35,361 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04389879
+2024-08-08 16:52:35,803 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00437879
+2024-08-08 16:52:35,846 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01206179
+2024-08-08 16:52:35,892 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05644379
+2024-08-08 16:52:35,942 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02724579
+2024-08-08 16:52:35,988 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04716179
+2024-08-08 16:52:36,033 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04787679
+2024-08-08 16:52:36,763 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 13, Updated: 8. Total new: 142, Total updated: 144
+2024-08-08 16:52:38,971 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:52:40,295 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06147479
+2024-08-08 16:52:40,381 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00699179
+2024-08-08 16:52:40,460 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00038779
+2024-08-08 16:52:40,525 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00361179
+2024-08-08 16:52:40,932 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04105179
+2024-08-08 16:52:43,742 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03260179
+2024-08-08 16:52:43,787 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00718679
+2024-08-08 16:52:43,841 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04985279
+2024-08-08 16:52:43,886 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02602379
+2024-08-08 16:52:44,406 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05903079
+2024-08-08 16:52:44,455 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01610479
+2024-08-08 16:52:44,503 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00147979
+2024-08-08 16:52:44,505 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 3, Updated: 9. Total new: 145, Total updated: 153
+2024-08-08 16:52:46,697 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:52:46,757 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00227279
+2024-08-08 16:52:46,815 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02069379
+2024-08-08 16:52:47,796 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00000279
+2024-08-08 16:52:48,386 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01107379
+2024-08-08 16:52:48,432 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04887779
+2024-08-08 16:52:48,487 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05541679
+2024-08-08 16:52:48,542 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05866679
+2024-08-08 16:52:48,583 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03693079
+2024-08-08 16:52:48,986 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05162079
+2024-08-08 16:52:49,037 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01168479
+2024-08-08 16:52:49,083 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04900779
+2024-08-08 16:52:49,140 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06343779
+2024-08-08 16:52:49,185 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05048979
+2024-08-08 16:52:49,236 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00306579
+2024-08-08 16:52:49,280 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02897479
+2024-08-08 16:52:49,328 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03148379
+2024-08-08 16:52:49,386 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05089279
+2024-08-08 16:52:49,431 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05367479
+2024-08-08 16:52:49,901 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00687479
+2024-08-08 16:52:49,951 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03928379
+2024-08-08 16:52:49,994 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04816279
+2024-08-08 16:52:50,040 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05136079
+2024-08-08 16:52:50,084 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05030779
+2024-08-08 16:52:50,147 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03975179
+2024-08-08 16:52:50,201 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00000779
+2024-08-08 16:52:50,247 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00264979
+2024-08-08 16:52:50,358 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02326779
+2024-08-08 16:52:50,415 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04102579
+2024-08-08 16:52:50,516 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05327179
+2024-08-08 16:52:50,907 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04792879
+2024-08-08 16:52:50,994 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05575479
+2024-08-08 16:52:51,737 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05808179
+2024-08-08 16:52:51,738 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 20, Updated: 12. Total new: 165, Total updated: 165
+2024-08-08 16:52:53,947 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:52:54,007 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05288179
+2024-08-08 16:52:54,075 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02824679
+2024-08-08 16:52:54,127 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02044679
+2024-08-08 16:52:54,218 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02118779
+2024-08-08 16:52:54,263 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04292379
+2024-08-08 16:52:54,311 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04824079
+2024-08-08 16:52:54,364 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00950079
+2024-08-08 16:52:54,410 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00804479
+2024-08-08 16:52:54,463 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01810679
+2024-08-08 16:52:54,522 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00664079
+2024-08-08 16:52:55,566 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00058279
+2024-08-08 16:52:55,617 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04627779
+2024-08-08 16:52:55,684 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03114579
+2024-08-08 16:52:55,732 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01740479
+2024-08-08 16:52:55,782 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01814579
+2024-08-08 16:52:55,828 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03629379
+2024-08-08 16:52:55,880 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02768779
+2024-08-08 16:52:55,924 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00899379
+2024-08-08 16:52:55,970 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01115179
+2024-08-08 16:52:56,046 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05225779
+2024-08-08 16:52:56,096 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05857579
+2024-08-08 16:52:56,142 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04807179
+2024-08-08 16:52:56,436 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00755079
+2024-08-08 16:52:56,479 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03997279
+2024-08-08 16:52:56,545 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00146679
+2024-08-08 16:52:56,590 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01624779
+2024-08-08 16:52:56,633 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03884179
+2024-08-08 16:52:57,665 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00077779
+2024-08-08 16:52:57,759 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04050579
+2024-08-08 16:52:57,812 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04619979
+2024-08-08 16:52:57,892 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05643079
+2024-08-08 16:52:57,968 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04695379
+2024-08-08 16:52:58,027 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03516279
+2024-08-08 16:52:58,074 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02569879
+2024-08-08 16:52:58,141 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04112979
+2024-08-08 16:52:58,205 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02673879
+2024-08-08 16:52:58,251 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05245279
+2024-08-08 16:52:58,310 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04385979
+2024-08-08 16:52:58,357 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00414479
+2024-08-08 16:52:58,411 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01860079
+2024-08-08 16:52:58,457 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00483379
+2024-08-08 16:52:58,544 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06365879
+2024-08-08 16:52:59,221 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01805479
+2024-08-08 16:52:59,276 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05817279
+2024-08-08 16:52:59,278 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 28, Updated: 16. Total new: 193, Total updated: 181
+2024-08-08 16:53:01,459 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:53:02,166 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06277479
+2024-08-08 16:53:02,361 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05776979
+2024-08-08 16:53:03,232 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03893279
+2024-08-08 16:53:03,276 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00678379
+2024-08-08 16:53:03,339 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05224479
+2024-08-08 16:53:03,400 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04060979
+2024-08-08 16:53:03,457 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02439879
+2024-08-08 16:53:03,506 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01697579
+2024-08-08 16:53:03,615 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06433479
+2024-08-08 16:53:03,677 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03891979
+2024-08-08 16:53:03,737 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03741179
+2024-08-08 16:53:03,792 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04001179
+2024-08-08 16:53:03,856 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02149979
+2024-08-08 16:53:03,917 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04346979
+2024-08-08 16:53:03,964 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05358379
+2024-08-08 16:53:04,013 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04151979
+2024-08-08 16:53:04,075 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06361979
+2024-08-08 16:53:04,121 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00656279
+2024-08-08 16:53:04,174 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04540679
+2024-08-08 16:53:04,222 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03413579
+2024-08-08 16:53:04,280 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04612179
+2024-08-08 16:53:04,631 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00037479
+2024-08-08 16:53:04,685 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06075979
+2024-08-08 16:53:04,769 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01316679
+2024-08-08 16:53:04,841 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06333379
+2024-08-08 16:53:05,124 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01407679
+2024-08-08 16:53:05,172 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05177679
+2024-08-08 16:53:05,349 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05240079
+2024-08-08 16:53:05,392 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01693679
+2024-08-08 16:53:06,310 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03071679
+2024-08-08 16:53:06,356 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00712179
+2024-08-08 16:53:06,444 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06139679
+2024-08-08 16:53:06,487 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00056979
+2024-08-08 16:53:06,551 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02712879
+2024-08-08 16:53:06,984 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 23, Updated: 11. Total new: 216, Total updated: 192
+2024-08-08 16:53:09,171 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:53:09,307 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01559779
+2024-08-08 16:53:09,398 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05692479
+2024-08-08 16:53:09,795 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00329979
+2024-08-08 16:53:09,859 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05895279
+2024-08-08 16:53:09,904 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00778479
+2024-08-08 16:53:09,949 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06114979
+2024-08-08 16:53:10,311 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03100279
+2024-08-08 16:53:10,355 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03652779
+2024-08-08 16:53:10,509 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04933279
+2024-08-08 16:53:10,563 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04194879
+2024-08-08 16:53:11,402 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03862079
+2024-08-08 16:53:11,446 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05094479
+2024-08-08 16:53:11,493 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05912179
+2024-08-08 16:53:11,537 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04778579
+2024-08-08 16:53:11,587 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04402879
+2024-08-08 16:53:11,655 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02919579
+2024-08-08 16:53:12,796 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04565379
+2024-08-08 16:53:12,842 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02669979
+2024-08-08 16:53:12,980 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00508079
+2024-08-08 16:53:13,029 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06437379
+2024-08-08 16:53:13,071 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05588479
+2024-08-08 16:53:13,119 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00114179
+2024-08-08 16:53:13,383 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00961779
+2024-08-08 16:53:13,431 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06339879
+2024-08-08 16:53:13,512 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06334679
+2024-08-08 16:53:13,563 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03876379
+2024-08-08 16:53:13,618 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03201679
+2024-08-08 16:53:13,732 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02369679
+2024-08-08 16:53:13,935 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02829879
+2024-08-08 16:53:13,987 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04799379
+2024-08-08 16:53:14,033 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03520179
+2024-08-08 16:53:14,081 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04478279
+2024-08-08 16:53:14,182 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06515379
+2024-08-08 16:53:14,255 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 21, Updated: 12. Total new: 237, Total updated: 204
+2024-08-08 16:53:16,469 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:53:16,600 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03989479
+2024-08-08 16:53:16,651 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04634279
+2024-08-08 16:53:16,695 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00552279
+2024-08-08 16:53:16,742 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05169879
+2024-08-08 16:53:16,804 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00900679
+2024-08-08 16:53:16,851 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01969279
+2024-08-08 16:53:16,895 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03390179
+2024-08-08 16:53:16,949 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00430079
+2024-08-08 16:53:16,994 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03015779
+2024-08-08 16:53:17,058 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05039879
+2024-08-08 16:53:17,122 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04941079
+2024-08-08 16:53:17,205 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00887679
+2024-08-08 16:53:17,334 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00654979
+2024-08-08 16:53:17,395 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04357379
+2024-08-08 16:53:17,449 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00588679
+2024-08-08 16:53:17,506 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06085079
+2024-08-08 16:53:17,637 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00852579
+2024-08-08 16:53:17,681 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03175679
+2024-08-08 16:53:17,742 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03650179
+2024-08-08 16:53:17,842 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00105079
+2024-08-08 16:53:17,885 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02998879
+2024-08-08 16:53:17,927 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05838079
+2024-08-08 16:53:18,004 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04709679
+2024-08-08 16:53:18,123 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05431179
+2024-08-08 16:53:18,233 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01466179
+2024-08-08 16:53:18,543 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04187079
+2024-08-08 16:53:18,663 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01905579
+2024-08-08 16:53:18,723 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01619579
+2024-08-08 16:53:18,786 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05416879
+2024-08-08 16:53:18,852 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04106479
+2024-08-08 16:53:18,924 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04486079
+2024-08-08 16:53:19,098 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01245179
+2024-08-08 16:53:19,156 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01215279
+2024-08-08 16:53:20,390 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00482079
+2024-08-08 16:53:20,493 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00004179
+2024-08-08 16:53:20,597 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00120679
+2024-08-08 16:53:20,798 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03195179
+2024-08-08 16:53:20,873 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00653679
+2024-08-08 16:53:20,924 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02510079
+2024-08-08 16:53:20,975 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02628379
+2024-08-08 16:53:21,195 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02352779
+2024-08-08 16:53:21,358 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04943679
+2024-08-08 16:53:21,452 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01085279
+2024-08-08 16:53:21,503 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05580679
+2024-08-08 16:53:21,761 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01726179
+2024-08-08 16:53:21,810 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03592979
+2024-08-08 16:53:21,883 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01031979
+2024-08-08 16:53:21,926 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04749979
+2024-08-08 16:53:21,928 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 29, Updated: 19. Total new: 266, Total updated: 223
+2024-08-08 16:53:24,115 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:53:24,179 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02235779
+2024-08-08 16:53:24,231 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00215579
+2024-08-08 16:53:24,275 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04764279
+2024-08-08 16:53:24,332 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02701179
+2024-08-08 16:53:24,380 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00797979
+2024-08-08 16:53:24,425 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04886479
+2024-08-08 16:53:24,553 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01291979
+2024-08-08 16:53:24,600 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04271579
+2024-08-08 16:53:24,665 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02857179
+2024-08-08 16:53:24,787 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05994079
+2024-08-08 16:53:25,000 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02130479
+2024-08-08 16:53:26,226 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00864279
+2024-08-08 16:53:26,271 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04237779
+2024-08-08 16:53:26,320 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06001879
+2024-08-08 16:53:26,368 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05705479
+2024-08-08 16:53:26,413 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01683279
+2024-08-08 16:53:26,457 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03986879
+2024-08-08 16:53:26,645 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01200979
+2024-08-08 16:53:26,692 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00807079
+2024-08-08 16:53:26,798 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03936179
+2024-08-08 16:53:26,948 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05197179
+2024-08-08 16:53:26,993 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04142879
+2024-08-08 16:53:27,040 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05942079
+2024-08-08 16:53:27,217 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05091879
+2024-08-08 16:53:27,266 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01178879
+2024-08-08 16:53:27,331 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00003679
+2024-08-08 16:53:27,498 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06434779
+2024-08-08 16:53:27,646 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00428779
+2024-08-08 16:53:27,700 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01914679
+2024-08-08 16:53:27,767 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05773079
+2024-08-08 16:53:27,827 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03553979
+2024-08-08 16:53:27,873 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04167579
+2024-08-08 16:53:27,933 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05945979
+2024-08-08 16:53:27,982 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03817879
+2024-08-08 16:53:28,028 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01155479
+2024-08-08 16:53:28,084 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05297279
+2024-08-08 16:53:28,131 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04896879
+2024-08-08 16:53:28,178 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02993679
+2024-08-08 16:53:28,329 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03006679
+2024-08-08 16:53:28,388 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00216879
+2024-08-08 16:53:28,436 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06371079
+2024-08-08 16:53:28,483 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05732779
+2024-08-08 16:53:28,603 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00027079
+2024-08-08 16:53:28,673 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01629979
+2024-08-08 16:53:28,920 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05676879
+2024-08-08 16:53:29,930 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 19, Updated: 26. Total new: 285, Total updated: 249
+2024-08-08 16:53:32,209 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:53:32,317 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02120079
+2024-08-08 16:53:32,369 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03998579
+2024-08-08 16:53:33,351 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03004079
+2024-08-08 16:53:34,057 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03443479
+2024-08-08 16:53:34,739 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00047879
+2024-08-08 16:53:34,797 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06438679
+2024-08-08 16:53:34,863 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01163279
+2024-08-08 16:53:34,918 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02581579
+2024-08-08 16:53:35,355 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03529279
+2024-08-08 16:53:35,406 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00895479
+2024-08-08 16:53:35,483 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01065779
+2024-08-08 16:53:35,550 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02755779
+2024-08-08 16:53:35,617 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04866979
+2024-08-08 16:53:36,722 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02918279
+2024-08-08 16:53:37,094 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02850679
+2024-08-08 16:53:38,211 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05864079
+2024-08-08 16:53:38,376 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05674279
+2024-08-08 16:53:38,434 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06397079
+2024-08-08 16:53:38,529 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05454579
+2024-08-08 16:53:38,588 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01974479
+2024-08-08 16:53:38,634 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02784379
+2024-08-08 16:53:38,690 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03850379
+2024-08-08 16:53:38,735 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03074279
+2024-08-08 16:53:38,790 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03345979
+2024-08-08 16:53:38,865 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06507579
+2024-08-08 16:53:38,922 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01992679
+2024-08-08 16:53:38,980 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02733679
+2024-08-08 16:53:39,088 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06420479
+2024-08-08 16:53:39,192 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01685879
+2024-08-08 16:53:39,270 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02146079
+2024-08-08 16:53:39,317 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00960479
+2024-08-08 16:53:40,574 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02061579
+2024-08-08 16:53:40,620 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02933879
+2024-08-08 16:53:40,863 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01653379
+2024-08-08 16:53:41,137 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04107779
+2024-08-08 16:53:41,187 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04109079
+2024-08-08 16:53:41,230 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02799979
+2024-08-08 16:53:41,324 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 25, Updated: 12. Total new: 310, Total updated: 261
+2024-08-08 16:53:43,522 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:53:43,939 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05294679
+2024-08-08 16:53:44,268 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06386679
+2024-08-08 16:53:44,313 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00103779
+2024-08-08 16:53:44,509 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01281579
+2024-08-08 16:53:44,560 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02572479
+2024-08-08 16:53:44,614 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03362879
+2024-08-08 16:53:44,702 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04093479
+2024-08-08 16:53:44,793 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01873079
+2024-08-08 16:53:44,940 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05862779
+2024-08-08 16:53:45,004 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01285479
+2024-08-08 16:53:45,093 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04057079
+2024-08-08 16:53:45,524 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05182879
+2024-08-08 16:53:45,575 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02204579
+2024-08-08 16:53:45,749 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03734679
+2024-08-08 16:53:45,800 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00847379
+2024-08-08 16:53:46,039 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00844779
+2024-08-08 16:53:46,132 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00287079
+2024-08-08 16:53:46,291 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03694379
+2024-08-08 16:53:46,348 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02290379
+2024-08-08 16:53:46,403 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04444479
+2024-08-08 16:53:46,623 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04224779
+2024-08-08 16:53:46,673 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00443079
+2024-08-08 16:53:46,797 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03507179
+2024-08-08 16:53:46,847 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04571879
+2024-08-08 16:53:46,913 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01784679
+2024-08-08 16:53:46,966 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04798079
+2024-08-08 16:53:47,015 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05513079
+2024-08-08 16:53:47,065 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04033679
+2024-08-08 16:53:47,115 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05975879
+2024-08-08 16:53:47,157 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02129179
+2024-08-08 16:53:47,205 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04686279
+2024-08-08 16:53:47,356 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04899479
+2024-08-08 16:53:47,444 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02433379
+2024-08-08 16:53:47,491 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01792479
+2024-08-08 16:53:47,591 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05769179
+2024-08-08 16:53:47,645 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04318379
+2024-08-08 16:53:47,692 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00309179
+2024-08-08 16:53:47,751 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01840579
+2024-08-08 16:53:47,808 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05250479
+2024-08-08 16:53:47,905 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04813679
+2024-08-08 16:53:48,452 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02277379
+2024-08-08 16:53:48,666 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00931879
+2024-08-08 16:53:48,912 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05539079
+2024-08-08 16:53:48,985 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05009979
+2024-08-08 16:53:49,032 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 12, Updated: 32. Total new: 322, Total updated: 293
+2024-08-08 16:53:51,206 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:53:51,416 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02890979
+2024-08-08 16:53:51,470 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04929379
+2024-08-08 16:53:51,557 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02686879
+2024-08-08 16:53:51,680 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00618579
+2024-08-08 16:53:51,766 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00225979
+2024-08-08 16:53:51,831 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00734279
+2024-08-08 16:53:51,889 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03638479
+2024-08-08 16:53:51,983 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02610179
+2024-08-08 16:53:52,138 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03005379
+2024-08-08 16:53:52,340 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02994979
+2024-08-08 16:53:52,548 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04772079
+2024-08-08 16:53:52,592 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00149279
+2024-08-08 16:53:52,649 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06254079
+2024-08-08 16:53:52,749 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05085379
+2024-08-08 16:53:52,804 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05593679
+2024-08-08 16:53:52,985 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05970679
+2024-08-08 16:53:53,211 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06517979
+2024-08-08 16:53:53,308 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06325579
+2024-08-08 16:53:53,380 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05526079
+2024-08-08 16:53:53,447 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03062579
+2024-08-08 16:53:53,604 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04443179
+2024-08-08 16:53:53,657 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00190879
+2024-08-08 16:53:53,744 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06107179
+2024-08-08 16:53:53,856 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02391779
+2024-08-08 16:53:53,928 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05901779
+2024-08-08 16:53:53,980 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05423379
+2024-08-08 16:53:54,046 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03631979
+2024-08-08 16:53:54,140 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00478179
+2024-08-08 16:53:54,206 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02313779
+2024-08-08 16:53:54,534 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05815979
+2024-08-08 16:53:54,588 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00393679
+2024-08-08 16:53:54,789 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03533179
+2024-08-08 16:53:54,838 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06003179
+2024-08-08 16:53:54,900 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05836779
+2024-08-08 16:53:54,953 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04423679
+2024-08-08 16:53:55,002 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04067479
+2024-08-08 16:53:55,178 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05113979
+2024-08-08 16:53:55,366 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02265679
+2024-08-08 16:53:55,425 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05892679
+2024-08-08 16:53:55,474 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05445479
+2024-08-08 16:53:55,526 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01702779
+2024-08-08 16:53:55,573 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04536779
+2024-08-08 16:53:55,628 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02035579
+2024-08-08 16:53:55,702 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02339779
+2024-08-08 16:53:55,762 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02169479
+2024-08-08 16:53:55,855 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03097679
+2024-08-08 16:53:55,903 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06124079
+2024-08-08 16:53:55,962 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05666479
+2024-08-08 16:53:56,048 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02074579
+2024-08-08 16:53:56,133 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01828879
+2024-08-08 16:53:56,196 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06276179
+2024-08-08 16:53:56,242 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00623779
+2024-08-08 16:53:56,600 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06150079
+2024-08-08 16:53:56,649 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01457079
+2024-08-08 16:53:56,700 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03856879
+2024-08-08 16:53:56,844 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03707379
+2024-08-08 16:53:56,846 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 28, Updated: 28. Total new: 350, Total updated: 321
+2024-08-08 16:53:59,106 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:53:59,245 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02988479
+2024-08-08 16:53:59,392 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03587779
+2024-08-08 16:53:59,469 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02905279
+2024-08-08 16:53:59,515 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04336579
+2024-08-08 16:53:59,570 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01354379
+2024-08-08 16:53:59,613 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03547479
+2024-08-08 16:53:59,665 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02504879
+2024-08-08 16:53:59,714 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05449379
+2024-08-08 16:54:00,093 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04768179
+2024-08-08 16:54:00,143 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06529679
+2024-08-08 16:54:00,195 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01307579
+2024-08-08 16:54:00,241 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00376779
+2024-08-08 16:54:00,292 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06113679
+2024-08-08 16:54:00,342 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00196079
+2024-08-08 16:54:00,397 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00704379
+2024-08-08 16:54:00,447 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00990379
+2024-08-08 16:54:00,495 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05255679
+2024-08-08 16:54:00,544 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02707679
+2024-08-08 16:54:00,594 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04120779
+2024-08-08 16:54:00,643 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01852279
+2024-08-08 16:54:00,705 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05905679
+2024-08-08 16:54:00,788 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02060279
+2024-08-08 16:54:00,833 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01217879
+2024-08-08 16:54:00,878 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00621179
+2024-08-08 16:54:00,925 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03222479
+2024-08-08 16:54:00,996 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01562379
+2024-08-08 16:54:01,056 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01856179
+2024-08-08 16:54:01,101 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03621579
+2024-08-08 16:54:01,153 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05041179
+2024-08-08 16:54:01,206 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00777179
+2024-08-08 16:54:01,256 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02092779
+2024-08-08 16:54:01,303 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00769379
+2024-08-08 16:54:01,359 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02862379
+2024-08-08 16:54:01,406 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03118479
+2024-08-08 16:54:01,472 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04713579
+2024-08-08 16:54:01,516 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02554279
+2024-08-08 16:54:01,563 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05568979
+2024-08-08 16:54:01,616 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01631279
+2024-08-08 16:54:01,671 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03598179
+2024-08-08 16:54:01,729 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05217979
+2024-08-08 16:54:01,773 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01204879
+2024-08-08 16:54:01,822 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04517279
+2024-08-08 16:54:01,886 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05549479
+2024-08-08 16:54:01,970 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05141279
+2024-08-08 16:54:02,026 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06014879
+2024-08-08 16:54:02,139 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03022279
+2024-08-08 16:54:02,194 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03117179
+2024-08-08 16:54:02,268 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05826379
+2024-08-08 16:54:02,326 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00818779
+2024-08-08 16:54:02,399 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00284479
+2024-08-08 16:54:02,445 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02688179
+2024-08-08 16:54:02,499 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02597179
+2024-08-08 16:54:02,545 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04579679
+2024-08-08 16:54:02,594 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00825279
+2024-08-08 16:54:02,646 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04592679
+2024-08-08 16:54:02,696 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00034879
+2024-08-08 16:54:02,740 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04207879
+2024-08-08 16:54:02,793 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05969379
+2024-08-08 16:54:02,852 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02906579
+2024-08-08 16:54:02,915 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00004579
+2024-08-08 16:54:03,007 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01626079
+2024-08-08 16:54:03,055 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06402279
+2024-08-08 16:54:03,105 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03595579
+2024-08-08 16:54:03,157 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02478879
+2024-08-08 16:54:03,259 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00173979
+2024-08-08 16:54:03,322 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01078779
+2024-08-08 16:54:03,400 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04556279
+2024-08-08 16:54:03,473 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02801279
+2024-08-08 16:54:03,521 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05981079
+2024-08-08 16:54:03,578 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05713279
+2024-08-08 16:54:03,639 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04613479
+2024-08-08 16:54:03,692 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01044979
+2024-08-08 16:54:03,743 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06269679
+2024-08-08 16:54:03,795 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06446479
+2024-08-08 16:54:03,847 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03689179
+2024-08-08 16:54:03,901 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05428579
+2024-08-08 16:54:03,950 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05830279
+2024-08-08 16:54:04,014 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00762879
+2024-08-08 16:54:04,061 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01306279
+2024-08-08 16:54:04,106 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02855879
+2024-08-08 16:54:04,155 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04068779
+2024-08-08 16:54:04,203 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03253679
+2024-08-08 16:54:04,248 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03020979
+2024-08-08 16:54:04,291 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06287879
+2024-08-08 16:54:04,343 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01882179
+2024-08-08 16:54:04,391 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01134679
+2024-08-08 16:54:04,443 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05672979
+2024-08-08 16:54:04,488 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06079879
+2024-08-08 16:54:04,537 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01035879
+2024-08-08 16:54:04,593 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03352479
+2024-08-08 16:54:04,594 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 42, Updated: 48. Total new: 392, Total updated: 369
+2024-08-08 16:54:06,776 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:54:06,829 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01022879
+2024-08-08 16:54:06,876 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00296179
+2024-08-08 16:54:06,946 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02747979
+2024-08-08 16:54:06,999 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01642979
+2024-08-08 16:54:07,042 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03673579
+2024-08-08 16:54:07,105 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01158079
+2024-08-08 16:54:07,174 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06036979
+2024-08-08 16:54:07,250 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01750879
+2024-08-08 16:54:07,328 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00112879
+2024-08-08 16:54:07,388 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00939679
+2024-08-08 16:54:07,466 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00649779
+2024-08-08 16:54:07,513 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01960179
+2024-08-08 16:54:07,556 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02464579
+2024-08-08 16:54:07,601 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02201979
+2024-08-08 16:54:07,655 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05958979
+2024-08-08 16:54:07,713 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02424279
+2024-08-08 16:54:07,777 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03092479
+2024-08-08 16:54:07,842 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03914079
+2024-08-08 16:54:07,889 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03342079
+2024-08-08 16:54:07,956 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00498979
+2024-08-08 16:54:08,053 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03795779
+2024-08-08 16:54:08,100 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05548179
+2024-08-08 16:54:08,168 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06255379
+2024-08-08 16:54:08,224 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03531879
+2024-08-08 16:54:08,274 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02194179
+2024-08-08 16:54:08,323 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02848079
+2024-08-08 16:54:08,372 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01479179
+2024-08-08 16:54:08,437 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04569279
+2024-08-08 16:54:08,489 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00064779
+2024-08-08 16:54:08,541 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04162379
+2024-08-08 16:54:08,588 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05349279
+2024-08-08 16:54:08,634 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05386979
+2024-08-08 16:54:08,680 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01327079
+2024-08-08 16:54:08,726 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02459379
+2024-08-08 16:54:08,772 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03726879
+2024-08-08 16:54:08,821 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01577979
+2024-08-08 16:54:08,871 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05854979
+2024-08-08 16:54:08,932 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02125279
+2024-08-08 16:54:08,981 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04560179
+2024-08-08 16:54:09,024 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00622479
+2024-08-08 16:54:09,075 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06065579
+2024-08-08 16:54:09,137 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04662879
+2024-08-08 16:54:09,194 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02719379
+2024-08-08 16:54:09,239 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02734979
+2024-08-08 16:54:09,290 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01927679
+2024-08-08 16:54:09,332 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01997879
+2024-08-08 16:54:09,378 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04083079
+2024-08-08 16:54:09,423 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05181579
+2024-08-08 16:54:09,466 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01496079
+2024-08-08 16:54:09,541 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01711879
+2024-08-08 16:54:09,606 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03196479
+2024-08-08 16:54:09,657 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03426579
+2024-08-08 16:54:09,720 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04928079
+2024-08-08 16:54:09,809 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05498779
+2024-08-08 16:54:09,871 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04431479
+2024-08-08 16:54:09,929 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05184179
+2024-08-08 16:54:09,975 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01528579
+2024-08-08 16:54:10,021 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01265979
+2024-08-08 16:54:10,090 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04597879
+2024-08-08 16:54:10,137 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00914979
+2024-08-08 16:54:10,197 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06294379
+2024-08-08 16:54:10,259 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00237679
+2024-08-08 16:54:10,320 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03213379
+2024-08-08 16:54:10,366 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04079179
+2024-08-08 16:54:10,425 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00998179
+2024-08-08 16:54:10,470 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06467279
+2024-08-08 16:54:10,528 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03182179
+2024-08-08 16:54:10,574 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02714179
+2024-08-08 16:54:10,625 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01570179
+2024-08-08 16:54:10,734 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05533879
+2024-08-08 16:54:10,827 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03551379
+2024-08-08 16:54:10,878 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03452579
+2024-08-08 16:54:10,927 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02786979
+2024-08-08 16:54:10,990 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03577379
+2024-08-08 16:54:11,037 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00651079
+2024-08-08 16:54:11,086 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06020079
+2024-08-08 16:54:11,135 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01315379
+2024-08-08 16:54:11,203 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04501679
+2024-08-08 16:54:11,249 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01515579
+2024-08-08 16:54:11,294 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05522179
+2024-08-08 16:54:11,356 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00970879
+2024-08-08 16:54:11,406 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01187979
+2024-08-08 16:54:11,465 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00509379
+2024-08-08 16:54:11,519 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06324279
+2024-08-08 16:54:11,573 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05856279
+2024-08-08 16:54:11,646 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04084379
+2024-08-08 16:54:11,755 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05701579
+2024-08-08 16:54:11,816 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05559879
+2024-08-08 16:54:11,867 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00719979
+2024-08-08 16:54:11,946 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02663479
+2024-08-08 16:54:12,026 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05146479
+2024-08-08 16:54:12,077 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05159479
+2024-08-08 16:54:12,136 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03969979
+2024-08-08 16:54:12,207 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04227379
+2024-08-08 16:54:12,305 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00004879
+2024-08-08 16:54:12,352 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05618379
+2024-08-08 16:54:12,407 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01943279
+2024-08-08 16:54:12,457 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04298879
+2024-08-08 16:54:12,515 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01900379
+2024-08-08 16:54:12,575 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05637879
+2024-08-08 16:54:12,575 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 90, Updated: 10. Total new: 482, Total updated: 379
+2024-08-08 16:54:14,771 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:54:14,847 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01662479
+2024-08-08 16:54:14,892 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02896179
+2024-08-08 16:54:14,951 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01853579
+2024-08-08 16:54:15,015 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00404079
+2024-08-08 16:54:15,070 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01239979
+2024-08-08 16:54:15,125 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03171779
+2024-08-08 16:54:15,175 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03156179
+2024-08-08 16:54:15,221 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06491979
+2024-08-08 16:54:15,273 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02814279
+2024-08-08 16:54:15,347 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00641979
+2024-08-08 16:54:15,395 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00814879
+2024-08-08 16:54:15,478 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00389779
+2024-08-08 16:54:15,526 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03024879
+2024-08-08 16:54:15,573 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06510179
+2024-08-08 16:54:15,628 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05221879
+2024-08-08 16:54:15,676 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04016779
+2024-08-08 16:54:15,731 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05771779
+2024-08-08 16:54:15,779 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00155779
+2024-08-08 16:54:15,834 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00144079
+2024-08-08 16:54:15,882 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03686579
+2024-08-08 16:54:15,939 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02218879
+2024-08-08 16:54:15,994 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00354679
+2024-08-08 16:54:16,056 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03604679
+2024-08-08 16:54:16,108 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04320979
+2024-08-08 16:54:16,156 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03200379
+2024-08-08 16:54:16,218 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00378079
+2024-08-08 16:54:16,285 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00159679
+2024-08-08 16:54:16,371 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01512979
+2024-08-08 16:54:16,425 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00965679
+2024-08-08 16:54:16,476 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04384679
+2024-08-08 16:54:16,523 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03343379
+2024-08-08 16:54:16,580 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03261479
+2024-08-08 16:54:16,655 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05657379
+2024-08-08 16:54:16,704 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03834779
+2024-08-08 16:54:16,751 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05710679
+2024-08-08 16:54:16,795 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04921579
+2024-08-08 16:54:16,840 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01251679
+2024-08-08 16:54:16,918 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04682379
+2024-08-08 16:54:16,987 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02291679
+2024-08-08 16:54:17,032 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04839679
+2024-08-08 16:54:17,098 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03552679
+2024-08-08 16:54:17,141 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02533479
+2024-08-08 16:54:17,186 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00258479
+2024-08-08 16:54:17,241 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03293979
+2024-08-08 16:54:17,301 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05311579
+2024-08-08 16:54:17,347 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00747279
+2024-08-08 16:54:17,399 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00000479
+2024-08-08 16:54:17,468 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00285779
+2024-08-08 16:54:17,525 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00327379
+2024-08-08 16:54:17,575 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02529579
+2024-08-08 16:54:17,633 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06087679
+2024-08-08 16:54:17,726 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06458179
+2024-08-08 16:54:17,789 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04588779
+2024-08-08 16:54:17,834 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01011179
+2024-08-08 16:54:17,894 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03993379
+2024-08-08 16:54:17,951 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05284279
+2024-08-08 16:54:17,995 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00731679
+2024-08-08 16:54:18,065 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05035979
+2024-08-08 16:54:18,142 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01691079
+2024-08-08 16:54:18,213 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04638179
+2024-08-08 16:54:18,272 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04330079
+2024-08-08 16:54:18,332 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03804879
+2024-08-08 16:54:18,386 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00593879
+2024-08-08 16:54:18,490 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02084979
+2024-08-08 16:54:18,535 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06105879
+2024-08-08 16:54:18,609 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05887479
+2024-08-08 16:54:18,653 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05670379
+2024-08-08 16:54:18,722 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05350579
+2024-08-08 16:54:18,771 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04908579
+2024-08-08 16:54:18,838 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06321679
+2024-08-08 16:54:18,896 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01861379
+2024-08-08 16:54:18,943 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04270279
+2024-08-08 16:54:18,989 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01800279
+2024-08-08 16:54:19,036 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02929979
+2024-08-08 16:54:19,080 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02681679
+2024-08-08 16:54:19,137 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05319379
+2024-08-08 16:54:19,185 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01834079
+2024-08-08 16:54:19,237 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01978379
+2024-08-08 16:54:19,282 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03945279
+2024-08-08 16:54:19,335 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05364879
+2024-08-08 16:54:19,381 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02932579
+2024-08-08 16:54:19,423 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05973279
+2024-08-08 16:54:19,476 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03085979
+2024-08-08 16:54:19,520 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03475979
+2024-08-08 16:54:19,566 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05068479
+2024-08-08 16:54:19,615 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00164879
+2024-08-08 16:54:19,667 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03098979
+2024-08-08 16:54:19,713 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00028379
+2024-08-08 16:54:19,787 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06202079
+2024-08-08 16:54:19,840 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02815579
+2024-08-08 16:54:19,889 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05795179
+2024-08-08 16:54:19,936 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02365779
+2024-08-08 16:54:19,993 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02109679
+2024-08-08 16:54:20,037 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04196179
+2024-08-08 16:54:20,084 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00701779
+2024-08-08 16:54:20,128 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03009279
+2024-08-08 16:54:20,175 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01388179
+2024-08-08 16:54:20,220 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06281379
+2024-08-08 16:54:20,265 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04209179
+2024-08-08 16:54:20,310 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00005379
+2024-08-08 16:54:20,310 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 64, Updated: 36. Total new: 546, Total updated: 415
+2024-08-08 16:54:22,495 - app.services.clinical_trials_gov_service - INFO - Fetched 100 trials
+2024-08-08 16:54:22,568 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01376479
+2024-08-08 16:54:22,613 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02736279
+2024-08-08 16:54:22,672 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04738279
+2024-08-08 16:54:22,735 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00842179
+2024-08-08 16:54:22,789 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03252379
+2024-08-08 16:54:22,832 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01256879
+2024-08-08 16:54:22,875 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01804179
+2024-08-08 16:54:22,921 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01310179
+2024-08-08 16:54:22,969 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03959579
+2024-08-08 16:54:23,016 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00573079
+2024-08-08 16:54:23,060 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02253979
+2024-08-08 16:54:23,106 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04514679
+2024-08-08 16:54:23,152 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00119379
+2024-08-08 16:54:23,196 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00800579
+2024-08-08 16:54:23,249 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03560479
+2024-08-08 16:54:23,292 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01020279
+2024-08-08 16:54:23,351 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00934479
+2024-08-08 16:54:23,394 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03134079
+2024-08-08 16:54:23,482 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02851979
+2024-08-08 16:54:23,527 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04045379
+2024-08-08 16:54:23,579 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00713479
+2024-08-08 16:54:23,629 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00829179
+2024-08-08 16:54:23,674 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03110679
+2024-08-08 16:54:23,725 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06346379
+2024-08-08 16:54:23,770 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02985879
+2024-08-08 16:54:23,818 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01913379
+2024-08-08 16:54:23,865 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03664479
+2024-08-08 16:54:23,915 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05436379
+2024-08-08 16:54:23,997 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01672879
+2024-08-08 16:54:24,046 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04153279
+2024-08-08 16:54:24,095 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01043679
+2024-08-08 16:54:24,139 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03722979
+2024-08-08 16:54:24,195 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02192879
+2024-08-08 16:54:24,242 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03040479
+2024-08-08 16:54:24,289 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03566979
+2024-08-08 16:54:24,338 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00241579
+2024-08-08 16:54:24,388 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04765579
+2024-08-08 16:54:24,434 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04432779
+2024-08-08 16:54:24,480 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01884779
+2024-08-08 16:54:24,566 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04978779
+2024-08-08 16:54:24,618 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03548779
+2024-08-08 16:54:24,711 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00107679
+2024-08-08 16:54:24,759 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03958279
+2024-08-08 16:54:24,804 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06176079
+2024-08-08 16:54:24,861 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03979079
+2024-08-08 16:54:24,930 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03992079
+2024-08-08 16:54:25,004 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04488679
+2024-08-08 16:54:25,054 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03667079
+2024-08-08 16:54:25,111 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT00232479
+2024-08-08 16:54:25,181 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04902079
+2024-08-08 16:54:25,228 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02940379
+2024-08-08 16:54:25,273 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01338779
+2024-08-08 16:54:25,350 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04340479
+2024-08-08 16:54:25,401 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01087879
+2024-08-08 16:54:25,443 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04735679
+2024-08-08 16:54:25,491 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00497679
+2024-08-08 16:54:25,543 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00881179
+2024-08-08 16:54:25,588 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06282679
+2024-08-08 16:54:25,670 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05635279
+2024-08-08 16:54:25,719 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00140179
+2024-08-08 16:54:25,784 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05383079
+2024-08-08 16:54:25,830 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00597779
+2024-08-08 16:54:25,883 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01229579
+2024-08-08 16:54:25,931 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01844479
+2024-08-08 16:54:25,999 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01657279
+2024-08-08 16:54:26,042 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03199079
+2024-08-08 16:54:26,093 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05370079
+2024-08-08 16:54:26,148 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT01000779
+2024-08-08 16:54:26,191 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04725279
+2024-08-08 16:54:26,254 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04525079
+2024-08-08 16:54:26,304 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00727779
+2024-08-08 16:54:26,348 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05282979
+2024-08-08 16:54:26,395 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04898179
+2024-08-08 16:54:26,448 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00595179
+2024-08-08 16:54:26,494 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00392379
+2024-08-08 16:54:26,550 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT03522779
+2024-08-08 16:54:26,598 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT04683679
+2024-08-08 16:54:26,645 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00422279
+2024-08-08 16:54:26,694 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05246579
+2024-08-08 16:54:26,743 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06267079
+2024-08-08 16:54:26,803 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02742779
+2024-08-08 16:54:26,863 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03374579
+2024-08-08 16:54:26,906 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05723679
+2024-08-08 16:54:26,960 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT03868579
+2024-08-08 16:54:27,010 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02517879
+2024-08-08 16:54:27,056 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05254379
+2024-08-08 16:54:27,119 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04781179
+2024-08-08 16:54:27,168 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00786279
+2024-08-08 16:54:27,216 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02270879
+2024-08-08 16:54:27,276 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT06436079
+2024-08-08 16:54:27,347 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT06086379
+2024-08-08 16:54:27,397 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT02705079
+2024-08-08 16:54:27,445 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05081479
+2024-08-08 16:54:27,490 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT05256979
+2024-08-08 16:54:27,538 - app.services.clinical_trials_gov_service - INFO - Updated existing trial: NCT04133779
+2024-08-08 16:54:27,601 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02926079
+2024-08-08 16:54:27,645 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT05098379
+2024-08-08 16:54:27,705 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT00765479
+2024-08-08 16:54:27,757 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT01347879
+2024-08-08 16:54:27,807 - app.services.clinical_trials_gov_service - INFO - Added new trial: NCT02640079
+2024-08-08 16:54:27,808 - app.services.clinical_trials_gov_service - INFO - Batch complete. New: 44, Updated: 56. Total new: 590, Total updated: 471
+2024-08-08 16:54:27,809 - app.services.clinical_trials_gov_service - INFO - Reached desired number of trials (1000).
+2024-08-08 16:54:27,811 - app.services.clinical_trials_gov_service - INFO - Fetch complete. Total new trials: 590, Total updated trials: 471
+2024-08-08 16:54:37,644 - app - INFO - Initializing Flask app...
+2024-08-08 16:54:37,645 - app - INFO - Configuring app...
+2024-08-08 16:54:37,646 - app - INFO - Setting up CORS...
+2024-08-08 16:54:37,647 - app - INFO - CORS configured with credentials support for allowed origins
+2024-08-08 16:54:37,647 - app - INFO - Initializing JWT manager...
+2024-08-08 16:54:37,648 - app - INFO - Setting up rate limiting...
+2024-08-08 16:54:37,650 - app - INFO - Setting up database...
+2024-08-08 16:54:37,651 - app - INFO - Starting database setup...
+2024-08-08 16:54:38,652 - app.mongo_client - INFO - Connected to MongoDB database: clinical_trial_screener
+2024-08-08 16:54:38,654 - app - INFO - Database setup completed successfully
+2024-08-08 16:54:38,655 - app - INFO - Registering error handler...
+2024-08-08 16:54:38,655 - app - INFO - Initializing CLI commands...
+2024-08-08 16:54:38,656 - app - INFO - Registering routes...
+2024-08-08 16:54:38,664 - app - INFO - Initializing services...
+2024-08-08 16:54:38,678 - app - INFO - Initializing email service...
+2024-08-08 16:54:38,679 - app - INFO - Setting up scheduler...
+2024-08-08 16:54:38,685 - app - INFO - Initializing scheduler...
+2024-08-08 16:54:38,686 - app.scheduler - INFO - Scheduler initialized
+2024-08-08 16:54:38,687 - app - INFO - Application initialized successfully
+2024-08-08 16:54:38,704 - app.database - INFO - Attempting to establish database connection...
+2024-08-08 16:54:39,649 - app.database - INFO - Database connection established successfully
