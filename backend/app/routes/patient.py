@@ -10,6 +10,7 @@ from app.utils.error_handlers import handle_database_error, handle_not_found_err
 patient = Blueprint('patient', __name__)
 logger = logging.getLogger(__name__)
 
+
 @patient.route('/profile', methods=['GET'])
 @jwt_required()
 async def get_patient_profile():
@@ -19,21 +20,14 @@ async def get_patient_profile():
         patient = await Patient.get_patient_by_user_id(current_user)
         if patient:
             logger.info(f"Profile found for user: {current_user}")
-            return jsonify({
-                'first_name': patient.first_name,
-                'last_name': patient.last_name,
-                'date_of_birth': patient.date_of_birth,
-                'gender': patient.gender,
-                'medical_conditions': patient.medical_conditions or [],
-                'medications': patient.medications or []
-            }), 200
+            return jsonify(patient.to_dict()), 200
         else:
             logger.warning(f"No profile found for user: {current_user}")
             return jsonify({"error": "Patient profile not found"}), 404
     except Exception as e:
         logger.error(f"Error fetching profile for user {current_user}: {str(e)}")
-        return jsonify({"error": "An error occurred while fetching the profile"}), 500
-    
+        return handle_database_error(e)
+
 @patient.route('/profile', methods=['PUT'])
 @jwt_required()
 async def update_patient_profile():
@@ -41,17 +35,21 @@ async def update_patient_profile():
     data = request.get_json()
     logger.info(f"Updating profile for user: {current_user}")
     try:
-        sanitized_data = {k: sanitize_input(v) for k, v in data.items()}
-        
-        required_fields = ['first_name', 'last_name', 'date_of_birth', 'gender', 'medical_conditions', 'medications']
-        for field in required_fields:
-            if field not in sanitized_data:
-                return jsonify({'message': f'Missing required field: {field}'}), 400
+        patient = await Patient.get_patient_by_user_id(current_user)
+        if not patient:
+            return jsonify({'error': 'Patient profile not found'}), 404
 
-        success = await Patient.update_patient(current_user, sanitized_data)
+        # Update patient fields
+        for key, value in data.items():
+            if hasattr(patient, key):
+                setattr(patient, key, value)
+
+        success = await patient.update()
         if success:
             return jsonify({'message': 'Patient profile updated successfully'}), 200
         else:
-            return handle_not_found_error("Failed to update patient profile")
+            return jsonify({'error': 'Failed to update patient profile'}), 500
     except Exception as e:
-        return handle_database_error(str(e))
+        logger.error(f"Error updating profile for user {current_user}: {str(e)}")
+        return handle_database_error(e)
+

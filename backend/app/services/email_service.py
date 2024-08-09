@@ -1,11 +1,11 @@
 # app/services/email_service.py
 
 import logging
-import asyncio
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
 from flask import current_app
 from app.utils.input_sanitizer import sanitize_input
+import asyncio
 
 logger = logging.getLogger(__name__)
 

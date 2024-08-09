@@ -10,7 +10,8 @@ import {
   FormControlLabel, 
   Alert, 
   CircularProgress,
-  Grid
+  Grid,
+  MenuItem
 } from '@mui/material';
 import axios from 'axios';
 import { useAuth } from '../contexts/AuthContext';
@@ -28,6 +29,8 @@ interface PatientProfileData {
   gender: string;
   medical_conditions: string;
   medications: string;
+  ethnicity: string;
+  family_medical_history: string;
   consentToContact: boolean;
 }
 
@@ -39,6 +42,8 @@ const PatientProfileForm: React.FC<PatientProfileFormProps> = ({ onProfileUpdate
     gender: '',
     medical_conditions: '',
     medications: '',
+    ethnicity: '',
+    family_medical_history: '',
     consentToContact: false
   });
   const [error, setError] = useState<string | null>(null);
@@ -161,12 +166,17 @@ const PatientProfileForm: React.FC<PatientProfileFormProps> = ({ onProfileUpdate
           <Grid item xs={12}>
             <TextField
               fullWidth
+              select
               label="Gender"
               name="gender"
               value={formData.gender}
               onChange={handleChange}
               required
-            />
+            >
+              <MenuItem value="male">Male</MenuItem>
+              <MenuItem value="female">Female</MenuItem>
+              <MenuItem value="other">Other</MenuItem>
+            </TextField>
           </Grid>
           <Grid item xs={12}>
             <TextField
@@ -188,6 +198,28 @@ const PatientProfileForm: React.FC<PatientProfileFormProps> = ({ onProfileUpdate
               rows={4}
               value={formData.medications}
               onChange={handleChange}
+            />
+          </Grid>
+          <Grid item xs={12}>
+            <TextField
+              fullWidth
+              label="Ethnicity"
+              name="ethnicity"
+              value={formData.ethnicity}
+              onChange={handleChange}
+              required
+            />
+          </Grid>
+          <Grid item xs={12}>
+            <TextField
+              fullWidth
+              label="Family Medical History"
+              name="family_medical_history"
+              multiline
+              rows={4}
+              value={formData.family_medical_history}
+              onChange={handleChange}
+              required
             />
           </Grid>
           <Grid item xs={12}>

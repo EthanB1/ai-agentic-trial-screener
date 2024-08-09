@@ -15,15 +15,18 @@ from app.utils.json_encoder import JSONEncoder
 from app.utils.json_utils import sanitize_for_json
 from app.utils.json_encoder import json_serialize
 
+# Initialize logger for this module
 logger = get_logger(__name__)
 
 class AnthropicService:
     def __init__(self, api_key: str, app):
+        # Initialize AsyncAnthropic client with the provided API key
         self.client = AsyncAnthropic(api_key=api_key)
+        # Set the model name to be used for API calls
         self.model_name = "claude-3-5-sonnet-20240620" 
         self.app = app
         
-        # Initialize rate limiter
+        # Initialize rate limiter to prevent API abuse
         self.limiter = Limiter(
             key_func=get_remote_address,
             app=app,
@@ -33,6 +36,7 @@ class AnthropicService:
     async def invoke_model(self, system_message: str, messages: List[Dict[str, str]], max_tokens: int = 1000) -> str:
         try:
             logger.info("Invoking Anthropic model")
+            # Call the Anthropic API with a timeout of 30 seconds
             response = await asyncio.wait_for(
                 self.client.messages.create(
                     model=self.model_name,
@@ -52,12 +56,18 @@ class AnthropicService:
             raise
 
     def _sanitize_input(self, input_data: str) -> str:
+        # Remove potential SQL injection attempts
         sanitized = re.sub(r'\b(UNION|SELECT|FROM|WHERE|INSERT|DELETE|UPDATE|DROP)\b', '', input_data, flags=re.IGNORECASE)
+        # Remove HTML tags
         sanitized = re.sub(r'<[^>]*?>', '', sanitized)
+        # Remove potential MongoDB injection attempts
+        sanitized = re.sub(r'\$|\{|\}', '', sanitized)  # Remove $, {, and } characters
+        # Truncate input if it's too long
         max_length = 100000
         if len(sanitized) > max_length:
             sanitized = sanitized[:max_length]
             logger.warning(f"Input truncated to {max_length} characters")
+        # Ensure the sanitized input is valid JSON
         try:
             json.loads(sanitized)
         except json.JSONDecodeError as e:
@@ -70,6 +80,7 @@ class AnthropicService:
         return sanitized
 
     def _filter_output(self, output: Union[str, List]) -> str:
+        # Handle different output types
         if isinstance(output, list):
             logger.info(f"Received list output from Anthropic API: {output}")
             output = output[0].text if output and hasattr(output[0], 'text') else str(output)
@@ -77,19 +88,23 @@ class AnthropicService:
             logger.warning(f"Unexpected output type in _filter_output: {type(output)}")
             output = str(output)
 
+        # Redact sensitive information
         filtered = re.sub(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', '[EMAIL REDACTED]', output)
         filtered = re.sub(r'\b\d{3}[-.]?\d{3}[-.]?\d{4}\b', '[PHONE REDACTED]', filtered)
         filtered = re.sub(r'\b(UNION|SELECT|FROM|WHERE|INSERT|DELETE|UPDATE|DROP)\b', '[SQL REDACTED]', filtered, flags=re.IGNORECASE)
         filtered = re.sub(r'<[^>]*?>', '[HTML REDACTED]', filtered)
+        # Remove potential MongoDB operators
+        filtered = re.sub(r'\$[a-zA-Z]+', '[MONGO OPERATOR REDACTED]', filtered)
         return filtered
 
     async def match_patient_to_trials(self, patient_data: Dict[str, Any], trials_data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         try:
+            # Sanitize input data
             sanitized_patient_data = sanitize_for_json(patient_data)
             sanitized_trials_data = sanitize_for_json(trials_data)
 
+            # Prepare system message and prompt
             system_message = "You are an AI assistant tasked with matching patients to clinical trials based on their profiles and trial eligibility criteria."
-            
             prompt = self._construct_matching_prompt(sanitized_patient_data, sanitized_trials_data)
             
             messages = [
@@ -101,6 +116,7 @@ class AnthropicService:
             logger.info(f"Received response from Anthropic API: {response[:100]}...")  # Log first 100 chars
             filtered_response = self._filter_output(response)
             
+            # Parse and validate the response
             parsed_response = self._parse_matching_response(filtered_response)
             logger.info(f"Parsed {len(parsed_response)} matches from Anthropic response")
             return parsed_response
@@ -109,11 +125,12 @@ class AnthropicService:
             return []  # Return an empty list instead of raising an exception
 
     def _construct_matching_prompt(self, patient_data, trials_data):
-        # Implement token counting here to ensure we don't exceed limits
+        # Implement token counting to ensure we don't exceed limits
         max_tokens = 10000  # Adjust based on your plan's limits
         patient_json = json_serialize(patient_data)
         trials_json = json_serialize(trials_data)
         
+        # Truncate trials data if the total token count exceeds the limit
         while len(patient_json) + len(trials_json) > max_tokens:
             if len(trials_data) > 1:
                 trials_data = trials_data[:-1]  # Remove the last trial
@@ -121,6 +138,7 @@ class AnthropicService:
             else:
                 raise ValueError("Cannot construct prompt within token limit")
 
+        # Construct the prompt
         prompt = f"""
         Patient Profile:
         {patient_json}
@@ -161,6 +179,7 @@ class AnthropicService:
 
             matches = json.loads(json_content)
             
+            # Validate the structure of the parsed JSON
             if not isinstance(matches, list):
                 logger.warning(f"Expected a list of matches, but got: {type(matches)}")
                 if isinstance(matches, dict):
@@ -170,6 +189,7 @@ class AnthropicService:
                     logger.error(f"Unexpected response format: {matches}")
                     return []
             
+            # Validate individual matches
             validated_matches = []
             for match in matches:
                 if not all(key in match for key in ('nct_id', 'compatibility_score', 'reasons')):
@@ -195,7 +215,9 @@ class AnthropicService:
 
     async def analyze_eligibility_criteria(self, criteria: str) -> Dict[str, Any]:
         try:
+            # Sanitize input criteria
             sanitized_criteria = self._sanitize_input(criteria)
+            # Construct prompt for eligibility criteria analysis
             prompt = f"""
             Analyze the following eligibility criteria and extract key information:
 
@@ -216,9 +238,11 @@ class AnthropicService:
                 {"role": "user", "content": prompt}
             ]
 
+            # Invoke the model and filter the response
             response = await self.invoke_model(messages)
             filtered_response = self._filter_output(response)
 
+            # Parse the JSON response
             try:
                 return json.loads(filtered_response)
             except json.JSONDecodeError:

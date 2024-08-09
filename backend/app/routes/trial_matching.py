@@ -9,7 +9,7 @@ from app.database import get_db
 from bson import ObjectId
 import logging
 
-
+# Create a Blueprint for trial matching routes
 trial_matching = Blueprint('trial_matching', __name__)
 logger = logging.getLogger(__name__)
 
@@ -21,6 +21,7 @@ async def get_recent_matches():
         limit = 5  # Number of recent matches to return
         db = await get_db()
         
+        # MongoDB aggregation pipeline to fetch and process recent matches
         pipeline = [
             {"$match": {"user_id": current_user}},
             {"$sort": {"timestamp": -1}},
@@ -48,9 +49,10 @@ async def get_recent_matches():
             }
         ]
 
+        # Execute the aggregation pipeline
         matches = await db.trial_matches.aggregate(pipeline).to_list(length=limit)
 
-        # Sanitize the output
+        # Sanitize the output to prevent potential XSS or injection attacks
         sanitized_matches = [
             {
                 "nct_id": sanitize_input(match['nct_id']),
@@ -76,7 +78,9 @@ async def get_recent_matches():
 async def start_matching_process():
     current_user = get_jwt_identity()
     try:
+        # Get the trial matching service from the current app context
         trial_matching_service = current_app.trial_matching_service
+        # Start the matching process for the current user
         result = await trial_matching_service.start_matching_process(current_user)
         return jsonify(result), 202
     except Exception as e:
@@ -87,7 +91,9 @@ async def start_matching_process():
 async def stop_matching_process():
     current_user = get_jwt_identity()
     try:
+        # Get the trial matching service from the current app context
         trial_matching_service = current_app.trial_matching_service
+        # Stop the matching process for the current user
         result = await trial_matching_service.stop_matching_process(current_user)
         return jsonify(result), 200
     except Exception as e:
@@ -98,19 +104,20 @@ async def stop_matching_process():
 async def get_matching_status():
     current_user = get_jwt_identity()
     try:
+        # Get the trial matching service from the current app context
         trial_matching_service = current_app.trial_matching_service
+        # Get the current status of the matching process for the user
         status = await trial_matching_service.get_matching_status(current_user)
         return jsonify(status), 200
     except Exception as e:
         return handle_general_error(e)
     
-
 @trial_matching.route('/all-matches', methods=['GET'])
 @jwt_required()
 async def get_all_matches():
     current_user = get_jwt_identity()
     try:
-        # Get pagination parameters
+        # Get pagination parameters from the request
         page = int(sanitize_input(request.args.get('page', 1)))
         per_page = min(int(sanitize_input(request.args.get('per_page', 10))), 100)  # Limit max per_page to 100
 
@@ -122,7 +129,7 @@ async def get_all_matches():
         # Fetch total count of matches for the user
         total_matches = await db.trial_matches.count_documents({"user_id": current_user})
 
-        # Fetch paginated matches
+        # MongoDB aggregation pipeline to fetch paginated matches
         pipeline = [
             {"$match": {"user_id": current_user}},
             {"$sort": {"timestamp": -1}},
@@ -151,9 +158,10 @@ async def get_all_matches():
             }
         ]
 
+        # Execute the aggregation pipeline
         matches = await db.trial_matches.aggregate(pipeline).to_list(length=per_page)
 
-        # Sanitize the output
+        # Sanitize the output to prevent potential XSS or injection attacks
         sanitized_matches = [
             {
                 "nct_id": sanitize_input(match['nct_id']),
@@ -168,6 +176,7 @@ async def get_all_matches():
             for match in matches
         ]
 
+        # Return paginated results along with metadata
         return jsonify({
             "matches": sanitized_matches,
             "total": total_matches,

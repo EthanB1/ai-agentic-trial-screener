@@ -147,17 +147,16 @@ def sanitize_patient_data(patient_data: Dict[str, Any]) -> Dict[str, Any]:
     """
     sanitized_data = {}
     for key, value in patient_data.items():
-        if key in ['user_id', 'first_name', 'last_name', 'email']:
+        if key in ['user_id', 'first_name', 'last_name', 'email', 'ethnicity']:
             sanitized_data[key] = sanitize_input(value)
         elif key == 'date_of_birth':
-            # Assuming this is a date string, we'll keep it as is
-            sanitized_data[key] = value
+            sanitized_data[key] = value  # Assuming this is already a date object
         elif key in ['medical_conditions', 'medications']:
             sanitized_data[key] = [sanitize_input(item) for item in value]
         elif key == 'gender':
-            # Restrict gender to specific values
             sanitized_data[key] = value if value in ['male', 'female', 'other'] else 'other'
+        elif key == 'family_medical_history':
+            sanitized_data[key] = sanitize_input(value, allow_newlines=True)
         else:
-            # For any unexpected fields, apply general sanitization
             sanitized_data[key] = sanitize_input(value)
     return sanitized_data

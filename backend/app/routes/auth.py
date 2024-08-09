@@ -36,21 +36,28 @@ async def register():
         # Create a patient profile
         patient_data = {
             'user_id': user_id,
+            'email': email,
             'first_name': first_name,
             'last_name': last_name,
             'date_of_birth': '',
             'gender': '',
             'medical_conditions': [],
-            'medications': []
+            'medications': [],
+            'ethnicity': '',
+            'family_medical_history': ''
         }
-        await Patient.create_patient(**patient_data)
+        patient_id = await Patient.create_patient(patient_data)
+
+        if not patient_id:
+            logger.error(f"Failed to create patient profile for user {user_id}")
+            return jsonify({'error': 'Failed to create patient profile'}), 500
 
         logger.info(f"User created successfully with ID: {user_id}")
         return jsonify({'message': 'User created successfully', 'user_id': user_id}), 201
 
     except Exception as e:
         return handle_database_error(str(e))
-
+    
 @auth.route('/login', methods=['POST'])
 async def login():
     try:

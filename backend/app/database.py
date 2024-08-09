@@ -39,7 +39,10 @@ async def create_indexes(db):
             IndexModel([("last_update_posted", ASCENDING)]),
             IndexModel([("status", ASCENDING)]),
             IndexModel([("phase", ASCENDING)]),
-            IndexModel([("conditions", TEXT)])
+            IndexModel([("conditions", TEXT)]),
+            IndexModel([("ethnicity", TEXT)]),
+            IndexModel([("family_medical_history", TEXT)]),
+            IndexModel([("last_notified", ASCENDING)])
         ])
 
         await db.patients.create_indexes([
