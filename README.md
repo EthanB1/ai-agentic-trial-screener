@@ -90,10 +90,6 @@ The Clinical Trial Eligibility Screener demonstrates agentic AI capabilities thr
 4. **Internal RESTful API**:
    - Endpoints for user management, patient profiles, trial matching
 
-## Installation and Setup
-
-(Detailed installation steps would be provided here)
-
 ## Usage
 
 1. **Patient Profile Creation**:
