@@ -33620,3 +33620,4 @@ None of these trials are suitable for a patient with Stage IIIB Non-Small Cell L
 2024-08-08 22:37:22,924 - app.services.anthropic_service - INFO - Parsed 0 matches from Anthropic response
 2024-08-08 22:37:22,925 - app.services.trial_matching_service - INFO - Processed batch. Total matches so far: 0
 2024-08-08 22:37:22,926 - app.services.trial_matching_service - INFO - Moving to next batch. Skip: 50, Total trials: 5175
+2024-08-08 22:37:23,936 - app.services.trial_matching_service - INFO - No new matching trials found for user: 66b53f76ffd87438bd7ff506
