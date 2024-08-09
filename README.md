@@ -70,7 +70,7 @@ The Clinical Trial Eligibility Screener demonstrates agentic AI capabilities thr
 2. **Proactive Searching**: Continuously and autonomously searches for new relevant trials.
 3. **Multi-step Reasoning**: Breaks down complex eligibility criteria into manageable steps for analysis.
 
-![Matching Trials](path_to_matching_trials_image.png)
+![Matching Trials](assets/matchingprocess.png)
 *Figure 3: Interface showing matching clinical trials with compatibility scores*
 
 ## API Integrations
