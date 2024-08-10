@@ -45,11 +45,11 @@ The Clinical Trial Eligibility Screener is an advanced, AI-powered application d
 ## LLM Security Measures
 
 1. **Input Sanitization**: 
-   - Implements rigorous sanitization of all inputs before processing by the LLM to prevent prompt injection attacks.
+   - Implements sanitization of all inputs before processing by the LLM to prevent prompt injection attacks.
    - Utilizes the `sanitize_input()` function in `app/utils/input_sanitizer.py` to clean user inputs.
 
 2. **Output Filtering**: 
-   - Implements strict output parsing and filtering to ensure only relevant and safe information is processed.
+   - Implements input and output parsing and filtering to ensure only relevant and safe information is processed.
    - Uses the `_parse_matching_response()` method in `app/services/anthropic_service.py` to validate and filter LLM outputs.
 
 3. **Rate Limiting**: 
@@ -103,4 +103,4 @@ The Clinical Trial Eligibility Screener demonstrates agentic AI capabilities thr
 
 ## Security Considerations
 
-- The application implements thorough input sanitization and output filtering to prevent LLM-based attacks.
+- The application implements input sanitization and output filtering to prevent LLM-based attacks.
