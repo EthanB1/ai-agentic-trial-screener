@@ -103,6 +103,5 @@ The Clinical Trial Eligibility Screener demonstrates agentic AI capabilities thr
 
 ## Security Considerations
 
-- All patient data is encrypted at rest and in transit.
 - Strict access controls and authentication mechanisms are in place.
 - The application implements thorough input sanitization and output filtering to prevent LLM-based attacks.
